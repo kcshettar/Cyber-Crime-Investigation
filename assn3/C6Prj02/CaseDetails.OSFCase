@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<OSFCase>
+    <!--OSForensics Case File-->
+    <OSFVersionInfo MajorVersion="2" MinorVersion="2" Build="1000" />
+    <CaseName>C6Prj02</CaseName>
+    <InvestigatorName>Kiran Shettar</InvestigatorName>
+    <Organization></Organization>
+    <ContactDetails></ContactDetails>
+    <TimeZone Bias="0" UseLocal="1" />
+    <CreationDate TimeZone="UTC" Year="2017" Month="3" Day="30" Hour="2" Minute="50" Second="21" />
+    <DefaultDrive>C</DefaultDrive>
+    <AcquisitionType Value="1" />
+    <DefaultDriveDetails>C:\ [Local]</DefaultDriveDetails>
+    <ReportLocation></ReportLocation>
+</OSFCase>

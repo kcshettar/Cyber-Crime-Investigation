@@ -1,0 +1,8 @@
+Log of fsck -C -a -t ext3 /dev/mapper/metasploitable-root 
+Thu Apr 27 19:17:02 2017
+
+fsck 1.40.8 (13-Mar-2008)
+/dev/mapper/metasploitable-root: clean, 55910/458752 files, 386053/1835008 blocks
+
+Thu Apr 27 19:17:02 2017
+----------------

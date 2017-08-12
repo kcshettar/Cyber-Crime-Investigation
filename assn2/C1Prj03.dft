@@ -1,0 +1,572 @@
+<?xml version="1.0"?>
+<PDProject> 
+	<PDProjectInfo> 
+		<ProjectName> C1Prj03 </ProjectName> 
+		<ProjectNumber> 20170225_03 </ProjectNumber> 
+		<ProjectDesc> Examine the new drive of the previous employee to determine whether it contains an account number the employee might have had access to.The account number 461562, belongs to the senior vice president and is used to access the company's banking service over the Internet. </ProjectDesc> 
+	</PDProjectInfo> 
+	<ProcessExplorer> 
+	</ProcessExplorer> 
+
+	<Image> 
+		<IFileName> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj03.dd </IFileName> 
+		<TypeOfDiskOrImage> Logical </TypeOfDiskOrImage> 
+		<IFileNumber> Unknown </IFileNumber> 
+		<ITechnName> Unknown </ITechnName> 
+		<IDate> 00/00/00 </IDate> 
+		<ITime> 00:00:00 </ITime> 
+		<IChecksum>  </IChecksum> 
+		<IChecksumValidated> 0 </IChecksumValidated> 
+
+		<Drive> 
+			<DiskName> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj03.dd </DiskName> 
+			<OIVolName> NO NAME     </OIVolName> 
+			<OIVolSerNum> FC6E-155B </OIVolSerNum> 
+			<OIFileSystem> FAT32 </OIFileSystem> 
+			<OIBPS> 512 </OIBPS> 
+			<OITotClust> 125972 </OITotClust> 
+			<OITotSec> 253952 </OITotSec> 
+			<OIHiddenSec> 0 </OIHiddenSec> 
+			<OITotCapacity> 126976 </OITotCapacity> 
+			<OIStartSec> 0 </OIStartSec> 
+			<OIEndSec> 253951 </OIEndSec> 
+
+			<EvidenceOfInterest> 
+				<File> 
+					<EOIFileName> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj03.dd\English\Rights\Economic Indicators_gov_files\footer_files\COUNT.GIF </EOIFileName> 
+					<EOIFCheckSum> MD5 Checksum: CEC7BACC70B3E8950CC019D287B72CC8 </EOIFCheckSum> 
+					<EOICreated> 07/30/2006 18:40:52 </EOICreated> 
+					<EOIModified> 07/30/2006 18:40:54 </EOIModified> 
+					<EOIAccessed> 07/30/2006 00:00:00 </EOIAccessed> 
+					<EOIFStartSec> StartSec: 15ecd </EOIFStartSec> 
+					<EOIFADS>  </EOIFADS> 
+					<EOIFSize>          302 bytes </EOIFSize> 
+					<EOIBatesNum>  </EOIBatesNum> 
+					<EOIComments> Account number "461562" is found that belongs to senior vice president </EOIComments> 
+					<EOIClusterChain> TBC:09000900090043006C0075007300740065007200200043006800610069006E003A000D000A0009000900090053007400610072007400200043006C00750073007400650072000900090045006E006400200043006C007500730074006500720020000900090054006F00740061006C00200043006C007500730074006500720073000D000A000D000A0009000900090038003900380030003500200028003100350045004300440029002000090020000900380039003800300035002000280031003500450043004400290020000900090031000D000A00 </EOIClusterChain> 
+					<EOIIsPreviewAvailable> 0 </EOIIsPreviewAvailable> 
+					<EOIIsEXIFAvailable> 0 </EOIIsEXIFAvailable> 
+				</File> 
+				<File> 
+					<EOIFileName> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj03.dd\Interview.xls </EOIFileName> 
+					<EOIFCheckSum> MD5 Checksum: 25B1D07E4F2BC93ACD48B7F6295E550B </EOIFCheckSum> 
+					<EOIDeleted> 07/29/2006 20:28 </EOIDeleted> 
+					<EOIFStartSec> StartSec: 15b </EOIFStartSec> 
+					<EOIFADS>  </EOIFADS> 
+					<EOIFSize> 4600 </EOIFSize> 
+					<EOIBatesNum>  </EOIBatesNum> 
+					<EOIComments> The word "book" is found in this file </EOIComments> 
+					<EOIClusterChain>  </EOIClusterChain> 
+					<EOIIsPreviewAvailable> 0 </EOIIsPreviewAvailable> 
+					<EOIIsEXIFAvailable> 0 </EOIIsEXIFAvailable> 
+				</File> 
+			</EvidenceOfInterest> 
+
+			<SignatureMismatch> 
+			</SignatureMismatch> 
+
+			<EOIClusters> 
+			</EOIClusters> 
+
+
+		</Drive> 
+
+	</Image> 
+
+	<Registries> 
+	</Registries> 
+	<ELKeys> 
+	</ELKeys> 
+	<InternetHistView> 
+	</InternetHistView> 
+	<SearchResults> 
+
+		<ContentSearchResults> 
+			<SRPatternType> 0 </SRPatternType> 
+			<SRPatterns> book </SRPatterns> 
+			<SRKeywords> book </SRKeywords> 
+			<SRResultsOffset> 0 </SRResultsOffset> 
+			<SRResultsLen> 505 </SRResultsLen> 
+		</ContentSearchResults> 
+		<ContentSearchResults> 
+			<SRPatternType> 0 </SRPatternType> 
+			<SRPatterns> book </SRPatterns> 
+			<SRKeywords> book </SRKeywords> 
+			<SRResultsOffset> 1010 </SRResultsOffset> 
+			<SRResultsLen> 505 </SRResultsLen> 
+		</ContentSearchResults> 
+		<ContentSearchResults> 
+			<SRPatternType> 0 </SRPatternType> 
+			<SRPatterns> book </SRPatterns> 
+			<SRKeywords> book </SRKeywords> 
+			<SRResultsOffset> 2020 </SRResultsOffset> 
+			<SRResultsLen> 2232 </SRResultsLen> 
+			<SRItem> 
+				<SRFileName> Interview.xls </SRFileName> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj03.dd\. </SearchResultsObject> 
+				<SRFileDeleted> 1 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> 3550b84498f9e12d9f13da081a444cad </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> Dg10.doc </SRFileName> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj03.dd\.\RECYCLER\S-1-5-21-746137067-1580818891-854245398-1000 </SearchResultsObject> 
+				<SRFileDeleted> 0 </SRFileDeleted> 
+				<SRFilterInfo> 0 </SRFilterInfo> 
+				<SearchMD5Hash> a62e57509e2465e676d06a50fea726b2 </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> EEEEE </SRFileName> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj03.dd\.\RECYCLER\S-1-5-21-746137067-1580818891-854245398-1000\Dg13 </SearchResultsObject> 
+				<SRFileDeleted> 0 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> ca59740eb2a6f3cea4a5530f19d1f44b </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> BenFranklinAutobio.doc </SRFileName> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj03.dd\.\RECYCLER\S-1-5-21-746137067-1580818891-854245398-1000\Dg12 </SearchResultsObject> 
+				<SRFileDeleted> 0 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> ef7214a07de52f04097eb70446f0dcf3 </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> BenFranklinAutobio.html </SRFileName> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj03.dd\.\RECYCLER\S-1-5-21-746137067-1580818891-854245398-1000\Dg12 </SearchResultsObject> 
+				<SRFileDeleted> 0 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> 23bff7a750cc07ade3593322558003fc </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> AntonandCleopatra.doc </SRFileName> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj03.dd\.\English </SearchResultsObject> 
+				<SRFileDeleted> 1 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> 642f219be92ddffc3b4d4338eb14c825 </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> AntonandCleopatra.html </SRFileName> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj03.dd\.\English </SearchResultsObject> 
+				<SRFileDeleted> 0 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> 5845c59067e1b8867655275f1fb85e0c </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> cccc.data </SRFileName> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj03.dd\.\English </SearchResultsObject> 
+				<SRFileDeleted> 1 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> 5845c59067e1b8867655275f1fb85e0c </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> DDD.DAT </SRFileName> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj03.dd\.\English </SearchResultsObject> 
+				<SRFileDeleted> 0 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> 58696143cd4f2e6536d7a21bf4b386e6 </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> MoralSentiments.html </SRFileName> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj03.dd\.\English </SearchResultsObject> 
+				<SRFileDeleted> 0 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> 58696143cd4f2e6536d7a21bf4b386e6 </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> TamingoftheShrew.doc </SRFileName> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj03.dd\.\English </SearchResultsObject> 
+				<SRFileDeleted> 1 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> 179671333ac5e73d2eb43d9371468964 </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> TamingoftheShrew.html </SRFileName> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj03.dd\.\English </SearchResultsObject> 
+				<SRFileDeleted> 0 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> 1592dadb1a2a0d5adbb48a3c67588f76 </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> WealthofNations.html </SRFileName> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj03.dd\.\English </SearchResultsObject> 
+				<SRFileDeleted> 1 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> d97065300724bdc7f6194f03ffc6e737 </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> Treasury Reporting Rates of Exchange.htm </SRFileName> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj03.dd\.\English\Rights </SearchResultsObject> 
+				<SRFileDeleted> 0 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> 0c830cb719825df937504517d5246a68 </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> Welcome - U_S_ Bureau of Engraving and Printing.mht </SRFileName> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj03.dd\.\English\Rights </SearchResultsObject> 
+				<SRFileDeleted> 1 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> b292876296bd12d84d560e9bf47c693a </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> U_S_ Bureau of Engraving and Printing  New Money  The New Currency.htm </SRFileName> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj03.dd\.\English\Rights </SearchResultsObject> 
+				<SRFileDeleted> 1 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> f40e923ca266d195239f1458707a3a23 </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> TBC:E5004500450045004500 </SRFileName> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj03.dd\.\Greek </SearchResultsObject> 
+				<SRFileDeleted> 1 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> ca59740eb2a6f3cea4a5530f19d1f44b </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> TBC:E50037004D00530052002E00500044004600 </SRFileName> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj03.dd\.\Greek </SearchResultsObject> 
+				<SRFileDeleted> 1 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> d1b62a319359b4a9658d1f4f3051cd86 </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> Interview.xls </SRFileName> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj03.dd\.\Pictures\Vacations\Trip3\DATA1\DATA2 </SearchResultsObject> 
+				<SRFileDeleted> 0 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> 3550b84498f9e12d9f13da081a444cad </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> TBC:E50049004300540030003000300038002E004A0050004700 </SRFileName> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj03.dd\.\Pictures\Boat Building </SearchResultsObject> 
+				<SRFileDeleted> 1 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> 099602f0d63e93496074755b0e414558 </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> TBC:E50049004300540030003000310031002E004A0050004700 </SRFileName> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj03.dd\.\Pictures\Boat Building </SearchResultsObject> 
+				<SRFileDeleted> 1 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> e6a5bc0f1516ea944693a15d13bbffe9 </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> TBC:E50049004300540030003000310038002E004A0050004700 </SRFileName> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj03.dd\.\Pictures\Boat Building </SearchResultsObject> 
+				<SRFileDeleted> 1 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> 31002e89648e91acb34d898fafd42c3f </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> BenFranklinAutobio.doc </SRFileName> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj03.dd\.\American </SearchResultsObject> 
+				<SRFileDeleted> 0 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> ef7214a07de52f04097eb70446f0dcf3 </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> CF.TXT </SRFileName> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj03.dd\.\American\Crime </SearchResultsObject> 
+				<SRFileDeleted> 0 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> 61cb2a340093cf49619e71c0b77346d7 </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> TAXFRAUD.RTF </SRFileName> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj03.dd\.\American\Crime </SearchResultsObject> 
+				<SRFileDeleted> 0 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> c236f756e8b40c020719766f5a4f32ca </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+		</ContentSearchResults> 
+		<ContentSearchResults> 
+			<SRPatternType> 0 </SRPatternType> 
+			<SRPatterns> book </SRPatterns> 
+			<SRKeywords> book </SRKeywords> 
+			<SRResultsOffset> 6484 </SRResultsOffset> 
+			<SRResultsLen> 2232 </SRResultsLen> 
+			<SRItem> 
+				<SRFileName> Interview.xls </SRFileName> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj03.dd\. </SearchResultsObject> 
+				<SRFileDeleted> 1 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> 3550b84498f9e12d9f13da081a444cad </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> Dg10.doc </SRFileName> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj03.dd\.\RECYCLER\S-1-5-21-746137067-1580818891-854245398-1000 </SearchResultsObject> 
+				<SRFileDeleted> 0 </SRFileDeleted> 
+				<SRFilterInfo> 0 </SRFilterInfo> 
+				<SearchMD5Hash> a62e57509e2465e676d06a50fea726b2 </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> EEEEE </SRFileName> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj03.dd\.\RECYCLER\S-1-5-21-746137067-1580818891-854245398-1000\Dg13 </SearchResultsObject> 
+				<SRFileDeleted> 0 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> ca59740eb2a6f3cea4a5530f19d1f44b </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> BenFranklinAutobio.doc </SRFileName> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj03.dd\.\RECYCLER\S-1-5-21-746137067-1580818891-854245398-1000\Dg12 </SearchResultsObject> 
+				<SRFileDeleted> 0 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> ef7214a07de52f04097eb70446f0dcf3 </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> BenFranklinAutobio.html </SRFileName> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj03.dd\.\RECYCLER\S-1-5-21-746137067-1580818891-854245398-1000\Dg12 </SearchResultsObject> 
+				<SRFileDeleted> 0 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> 23bff7a750cc07ade3593322558003fc </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> AntonandCleopatra.doc </SRFileName> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj03.dd\.\English </SearchResultsObject> 
+				<SRFileDeleted> 1 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> 642f219be92ddffc3b4d4338eb14c825 </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> AntonandCleopatra.html </SRFileName> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj03.dd\.\English </SearchResultsObject> 
+				<SRFileDeleted> 0 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> 5845c59067e1b8867655275f1fb85e0c </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> cccc.data </SRFileName> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj03.dd\.\English </SearchResultsObject> 
+				<SRFileDeleted> 1 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> 5845c59067e1b8867655275f1fb85e0c </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> DDD.DAT </SRFileName> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj03.dd\.\English </SearchResultsObject> 
+				<SRFileDeleted> 0 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> 58696143cd4f2e6536d7a21bf4b386e6 </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> MoralSentiments.html </SRFileName> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj03.dd\.\English </SearchResultsObject> 
+				<SRFileDeleted> 0 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> 58696143cd4f2e6536d7a21bf4b386e6 </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> TamingoftheShrew.doc </SRFileName> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj03.dd\.\English </SearchResultsObject> 
+				<SRFileDeleted> 1 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> 179671333ac5e73d2eb43d9371468964 </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> TamingoftheShrew.html </SRFileName> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj03.dd\.\English </SearchResultsObject> 
+				<SRFileDeleted> 0 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> 1592dadb1a2a0d5adbb48a3c67588f76 </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> WealthofNations.html </SRFileName> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj03.dd\.\English </SearchResultsObject> 
+				<SRFileDeleted> 1 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> d97065300724bdc7f6194f03ffc6e737 </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> Treasury Reporting Rates of Exchange.htm </SRFileName> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj03.dd\.\English\Rights </SearchResultsObject> 
+				<SRFileDeleted> 0 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> 0c830cb719825df937504517d5246a68 </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> Welcome - U_S_ Bureau of Engraving and Printing.mht </SRFileName> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj03.dd\.\English\Rights </SearchResultsObject> 
+				<SRFileDeleted> 1 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> b292876296bd12d84d560e9bf47c693a </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> U_S_ Bureau of Engraving and Printing  New Money  The New Currency.htm </SRFileName> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj03.dd\.\English\Rights </SearchResultsObject> 
+				<SRFileDeleted> 1 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> f40e923ca266d195239f1458707a3a23 </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> TBC:E5004500450045004500 </SRFileName> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj03.dd\.\Greek </SearchResultsObject> 
+				<SRFileDeleted> 1 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> ca59740eb2a6f3cea4a5530f19d1f44b </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> TBC:E50037004D00530052002E00500044004600 </SRFileName> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj03.dd\.\Greek </SearchResultsObject> 
+				<SRFileDeleted> 1 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> d1b62a319359b4a9658d1f4f3051cd86 </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> Interview.xls </SRFileName> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj03.dd\.\Pictures\Vacations\Trip3\DATA1\DATA2 </SearchResultsObject> 
+				<SRFileDeleted> 0 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> 3550b84498f9e12d9f13da081a444cad </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> TBC:E50049004300540030003000300038002E004A0050004700 </SRFileName> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj03.dd\.\Pictures\Boat Building </SearchResultsObject> 
+				<SRFileDeleted> 1 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> 099602f0d63e93496074755b0e414558 </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> TBC:E50049004300540030003000310031002E004A0050004700 </SRFileName> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj03.dd\.\Pictures\Boat Building </SearchResultsObject> 
+				<SRFileDeleted> 1 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> e6a5bc0f1516ea944693a15d13bbffe9 </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> TBC:E50049004300540030003000310038002E004A0050004700 </SRFileName> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj03.dd\.\Pictures\Boat Building </SearchResultsObject> 
+				<SRFileDeleted> 1 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> 31002e89648e91acb34d898fafd42c3f </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> BenFranklinAutobio.doc </SRFileName> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj03.dd\.\American </SearchResultsObject> 
+				<SRFileDeleted> 0 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> ef7214a07de52f04097eb70446f0dcf3 </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> CF.TXT </SRFileName> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj03.dd\.\American\Crime </SearchResultsObject> 
+				<SRFileDeleted> 0 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> 61cb2a340093cf49619e71c0b77346d7 </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> TAXFRAUD.RTF </SRFileName> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj03.dd\.\American\Crime </SearchResultsObject> 
+				<SRFileDeleted> 0 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> c236f756e8b40c020719766f5a4f32ca </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+		</ContentSearchResults> 
+		<ContentSearchResults> 
+			<SRPatternType> 0 </SRPatternType> 
+			<SRPatterns> 461562 </SRPatterns> 
+			<SRKeywords> 461562 </SRKeywords> 
+			<SRResultsOffset> 10948 </SRResultsOffset> 
+			<SRResultsLen> 507 </SRResultsLen> 
+		</ContentSearchResults> 
+	</SearchResults> 
+	<ProjectNotes> 
+	</ProjectNotes> 
+</PDProject> 

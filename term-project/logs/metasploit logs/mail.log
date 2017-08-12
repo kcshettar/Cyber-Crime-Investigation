@@ -1,0 +1,26 @@
+Apr 30 06:49:11 metasploitable postfix/pickup[21724]: 5B8E9CBFC: uid=0 from=<root>
+Apr 30 06:49:11 metasploitable postfix/cleanup[22255]: 5B8E9CBFC: message-id=<20170430104911.5B8E9CBFC@metasploitable.localdomain>
+Apr 30 06:49:11 metasploitable postfix/qmgr[5339]: 5B8E9CBFC: from=<root@metasploitable.localdomain>, size=1150, nrcpt=1 (queue active)
+Apr 30 06:49:11 metasploitable postfix/local[22257]: 5B8E9CBFC: to=<root@metasploitable.localdomain>, orig_to=<root>, relay=local, delay=1449, delays=1449/0/0/0.01, dsn=2.0.0, status=sent (delivered to mailbox)
+Apr 30 06:49:11 metasploitable postfix/qmgr[5339]: 5B8E9CBFC: removed
+Apr 30 10:54:27 metasploitable postfix/smtpd[23040]: connect from unknown[192.168.16.208]
+Apr 30 10:54:27 metasploitable postfix/smtpd[23040]: lost connection after CONNECT from unknown[192.168.16.208]
+Apr 30 10:54:27 metasploitable postfix/smtpd[23040]: disconnect from unknown[192.168.16.208]
+Apr 30 10:57:47 metasploitable postfix/anvil[23042]: statistics: max connection rate 1/60s for (smtp:192.168.16.208) at Apr 30 10:54:27
+Apr 30 10:57:47 metasploitable postfix/anvil[23042]: statistics: max connection count 1 for (smtp:192.168.16.208) at Apr 30 10:54:27
+Apr 30 10:57:47 metasploitable postfix/anvil[23042]: statistics: max cache size 1 at Apr 30 10:54:27
+Apr 30 12:48:54 metasploitable postfix/pickup[23269]: 75CC2CC46: uid=1000 from=<msfadmin>
+Apr 30 12:48:54 metasploitable postfix/cleanup[23455]: 75CC2CC46: message-id=<20170430164854.75CC2CC46@metasploitable.localdomain>
+Apr 30 12:48:54 metasploitable postfix/qmgr[5339]: 75CC2CC46: from=<msfadmin@metasploitable.localdomain>, size=494, nrcpt=1 (queue active)
+Apr 30 12:48:54 metasploitable postfix/local[23457]: 75CC2CC46: to=<root@metasploitable.localdomain>, orig_to=<root>, relay=local, delay=0.07, delays=0.05/0.01/0/0.01, dsn=2.0.0, status=sent (delivered to mailbox)
+Apr 30 12:48:54 metasploitable postfix/qmgr[5339]: 75CC2CC46: removed
+Apr 30 12:57:58 metasploitable postfix/pickup[23269]: 73CB0CC46: uid=1000 from=<msfadmin>
+Apr 30 12:57:58 metasploitable postfix/cleanup[23491]: 73CB0CC46: message-id=<20170430165758.73CB0CC46@metasploitable.localdomain>
+Apr 30 12:57:58 metasploitable postfix/qmgr[5339]: 73CB0CC46: from=<msfadmin@metasploitable.localdomain>, size=494, nrcpt=1 (queue active)
+Apr 30 12:57:58 metasploitable postfix/local[23493]: 73CB0CC46: to=<root@metasploitable.localdomain>, orig_to=<root>, relay=local, delay=0.07, delays=0.05/0.01/0/0.01, dsn=2.0.0, status=sent (delivered to mailbox)
+Apr 30 12:57:58 metasploitable postfix/qmgr[5339]: 73CB0CC46: removed
+Apr 30 16:32:40 metasploitable postfix/pickup[23956]: 87E0CCC46: uid=1000 from=<msfadmin>
+Apr 30 16:32:40 metasploitable postfix/cleanup[24270]: 87E0CCC46: message-id=<20170430203240.87E0CCC46@metasploitable.localdomain>
+Apr 30 16:32:40 metasploitable postfix/qmgr[5339]: 87E0CCC46: from=<msfadmin@metasploitable.localdomain>, size=494, nrcpt=1 (queue active)
+Apr 30 16:32:40 metasploitable postfix/local[24272]: 87E0CCC46: to=<root@metasploitable.localdomain>, orig_to=<root>, relay=local, delay=0.06, delays=0.04/0.01/0/0.01, dsn=2.0.0, status=sent (delivered to mailbox)
+Apr 30 16:32:40 metasploitable postfix/qmgr[5339]: 87E0CCC46: removed

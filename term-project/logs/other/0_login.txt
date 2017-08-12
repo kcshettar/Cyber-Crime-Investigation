@@ -1,0 +1,72 @@
+C:\Users\omar
+$ ssh sraihan@cs.uml.edu
+
+Only authorized users may connect to this system.
+Use is subject to all applicable laws and University policies found at
+http://www.uml.edu/IT/Policies/aup-faculty-staff.aspx
+Direct all questions to help@cs.uml.edu.
+
+sraihan@cs.uml.edu's password:
+Welcome to Ubuntu 16.04.2 LTS (GNU/Linux 4.4.0-59-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/advantage
+
+  System information as of Sun Apr 30 13:15:24 EDT 2017
+
+  System load:  1.33               Processes:           260
+  Usage of /:   67.5% of 17.27GB   Users logged in:     5
+  Memory usage: 46%                IP address for eth0: 192.168.8.101
+  Swap usage:   47%
+
+  Graph this data and manage this system at:
+    https://landscape.canonical.com/
+
+178 packages can be updated.
+119 updates are security updates.
+
+*** System restart required ***
+Last login: Sun Apr 30 12:40:41 2017 from 192.168.0.12
+sraihan@cs1:~$ ssh kshettar@mercury.cs.uml.edu
+kshettar@mercury.cs.uml.edu's password:
+Last login: Sun Apr 30 11:59:38 2017 from genome.fs.uml.edu
+[kshettar@mercury ~]$ ssh -p 5300 student@cs.uml.edu
+student@cs.uml.edu's password:
+
+The programs included with the Kali GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Kali GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+Last login: Sun Apr 30 11:59:03 2017 from 129.63.8.53
+student@gateway:~$ ssh root@Kali8
+root@kali8's password:
+
+The programs included with the Kali GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Kali GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+Last login: Sun Apr 30 11:59:40 2017 from 192.168.16.200
+root@kali8:~# exit
+logout
+Connection to kali8 closed.
+student@gateway:~$ ssh msfadmin@metasexploit8
+msfadmin@metasexploit8's password:
+Linux metasploitable 2.6.24-16-server #1 SMP Thu Apr 10 13:58:00 UTC 2008 i686
+
+The programs included with the Ubuntu system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Ubuntu comes with ABSOLUTELY NO WARRANTY, to the extent permitted by
+applicable law.
+
+To access official Ubuntu documentation, please visit:
+http://help.ubuntu.com/
+No mail.
+Last login: Sun Apr 30 11:43:45 2017 from 192.168.16.200
+msfadmin@metasploitable:~$

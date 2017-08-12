@@ -1,0 +1,854 @@
+msf > db_nmap -v -O   192.168.16.0/24
+[*] Nmap: Starting Nmap 7.25BETA1 ( https://nmap.org ) at 2017-04-30 11:37 EDT
+[*] Nmap: Initiating ARP Ping Scan at 11:37
+[*] Nmap: Scanning 255 hosts [1 port/host]
+[*] Nmap: Completed ARP Ping Scan at 11:37, 3.05s elapsed (255 total hosts)
+[*] Nmap: 'mass_dns: warning: Unable to determine any DNS servers. Reverse DNS is disabled. Try using --system-dns or specify valid servers with --dns-servers'
+[*] Nmap: Nmap scan report for 192.168.16.0 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.1 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.2 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.3 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.4 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.5 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.6 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.7 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.8 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.9 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.10 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.11 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.12 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.13 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.14 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.15 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.16 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.17 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.18 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.19 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.20 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.21 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.22 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.23 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.24 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.25 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.26 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.27 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.28 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.29 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.30 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.31 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.32 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.33 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.34 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.35 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.36 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.37 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.38 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.39 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.40 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.41 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.42 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.43 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.44 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.45 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.46 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.47 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.48 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.49 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.50 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.51 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.52 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.53 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.54 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.55 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.56 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.57 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.58 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.59 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.60 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.61 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.62 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.63 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.64 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.65 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.66 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.67 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.68 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.69 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.70 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.71 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.72 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.73 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.74 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.75 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.76 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.77 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.78 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.79 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.80 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.81 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.82 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.83 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.84 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.85 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.86 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.87 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.88 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.89 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.90 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.91 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.92 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.93 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.94 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.95 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.96 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.97 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.98 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.99 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.100 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.101 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.102 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.103 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.104 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.105 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.106 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.107 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.108 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.109 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.110 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.111 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.112 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.113 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.114 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.115 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.116 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.117 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.118 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.119 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.120 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.121 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.122 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.123 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.124 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.125 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.126 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.127 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.128 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.129 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.130 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.131 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.132 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.133 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.134 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.135 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.136 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.137 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.138 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.139 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.140 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.141 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.142 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.143 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.144 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.145 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.146 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.147 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.148 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.149 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.150 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.151 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.152 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.153 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.154 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.155 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.156 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.157 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.158 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.159 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.160 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.161 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.162 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.163 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.164 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.165 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.166 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.167 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.168 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.169 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.170 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.171 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.172 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.173 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.174 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.175 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.176 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.177 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.178 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.179 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.180 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.181 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.182 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.183 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.184 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.185 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.186 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.187 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.188 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.189 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.190 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.191 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.192 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.193 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.194 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.195 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.196 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.197 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.198 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.199 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.221 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.222 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.223 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.224 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.225 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.226 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.227 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.228 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.229 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.230 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.231 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.232 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.233 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.234 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.235 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.236 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.237 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.238 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.239 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.240 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.241 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.242 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.243 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.244 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.245 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.246 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.247 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.248 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.249 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.250 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.253 [host down]
+[*] Nmap: Nmap scan report for 192.168.16.255 [host down]
+[*] Nmap: Initiating SYN Stealth Scan at 11:37
+[*] Nmap: Scanning 23 hosts [1000 ports/host]
+[*] Nmap: Discovered open port 23/tcp on 192.168.16.217
+[*] Nmap: Discovered open port 23/tcp on 192.168.16.214
+[*] Nmap: Discovered open port 23/tcp on 192.168.16.218
+[*] Nmap: Discovered open port 23/tcp on 192.168.16.220
+[*] Nmap: Discovered open port 21/tcp on 192.168.16.217
+[*] Nmap: Discovered open port 21/tcp on 192.168.16.214
+[*] Nmap: Discovered open port 21/tcp on 192.168.16.218
+[*] Nmap: Discovered open port 21/tcp on 192.168.16.220
+[*] Nmap: Discovered open port 23/tcp on 192.168.16.212
+[*] Nmap: Discovered open port 21/tcp on 192.168.16.212
+[*] Nmap: Discovered open port 53/tcp on 192.168.16.217
+[*] Nmap: Discovered open port 53/tcp on 192.168.16.214
+[*] Nmap: Discovered open port 53/tcp on 192.168.16.218
+[*] Nmap: Discovered open port 53/tcp on 192.168.16.220
+[*] Nmap: Discovered open port 5900/tcp on 192.168.16.217
+[*] Nmap: Discovered open port 5900/tcp on 192.168.16.214
+[*] Nmap: Discovered open port 5900/tcp on 192.168.16.218
+[*] Nmap: Discovered open port 5900/tcp on 192.168.16.220
+[*] Nmap: Discovered open port 53/tcp on 192.168.16.211
+[*] Nmap: Discovered open port 53/tcp on 192.168.16.212
+[*] Nmap: Discovered open port 25/tcp on 192.168.16.217
+[*] Nmap: Discovered open port 5900/tcp on 192.168.16.212
+[*] Nmap: Discovered open port 25/tcp on 192.168.16.218
+[*] Nmap: Discovered open port 25/tcp on 192.168.16.214
+[*] Nmap: Discovered open port 25/tcp on 192.168.16.220
+[*] Nmap: Discovered open port 22/tcp on 192.168.16.202
+[*] Nmap: Discovered open port 22/tcp on 192.168.16.201
+[*] Nmap: Discovered open port 22/tcp on 192.168.16.205
+[*] Nmap: Discovered open port 22/tcp on 192.168.16.203
+[*] Nmap: Discovered open port 22/tcp on 192.168.16.204
+[*] Nmap: Discovered open port 22/tcp on 192.168.16.206
+[*] Nmap: Discovered open port 22/tcp on 192.168.16.217
+[*] Nmap: Discovered open port 25/tcp on 192.168.16.212
+[*] Nmap: Discovered open port 22/tcp on 192.168.16.218
+[*] Nmap: Discovered open port 22/tcp on 192.168.16.214
+[*] Nmap: Discovered open port 22/tcp on 192.168.16.219
+[*] Nmap: Discovered open port 22/tcp on 192.168.16.220
+[*] Nmap: Discovered open port 22/tcp on 192.168.16.200
+[*] Nmap: Discovered open port 22/tcp on 192.168.16.207
+[*] Nmap: Discovered open port 80/tcp on 192.168.16.217
+[*] Nmap: Discovered open port 80/tcp on 192.168.16.214
+[*] Nmap: Discovered open port 80/tcp on 192.168.16.218
+[*] Nmap: Discovered open port 80/tcp on 192.168.16.220
+[*] Nmap: Discovered open port 22/tcp on 192.168.16.209
+[*] Nmap: Discovered open port 22/tcp on 192.168.16.211
+[*] Nmap: Discovered open port 22/tcp on 192.168.16.210
+[*] Nmap: Discovered open port 3306/tcp on 192.168.16.217
+[*] Nmap: Discovered open port 22/tcp on 192.168.16.212
+[*] Nmap: Discovered open port 3306/tcp on 192.168.16.218
+[*] Nmap: Discovered open port 3306/tcp on 192.168.16.214
+[*] Nmap: Discovered open port 3306/tcp on 192.168.16.220
+[*] Nmap: Discovered open port 139/tcp on 192.168.16.217
+[*] Nmap: Discovered open port 139/tcp on 192.168.16.214
+[*] Nmap: Discovered open port 139/tcp on 192.168.16.220
+[*] Nmap: Discovered open port 3306/tcp on 192.168.16.212
+[*] Nmap: Discovered open port 139/tcp on 192.168.16.212
+[*] Nmap: Discovered open port 445/tcp on 192.168.16.217
+[*] Nmap: Discovered open port 445/tcp on 192.168.16.214
+[*] Nmap: Discovered open port 445/tcp on 192.168.16.220
+[*] Nmap: Discovered open port 111/tcp on 192.168.16.217
+[*] Nmap: Discovered open port 111/tcp on 192.168.16.218
+[*] Nmap: Discovered open port 111/tcp on 192.168.16.214
+[*] Nmap: Discovered open port 111/tcp on 192.168.16.220
+[*] Nmap: Discovered open port 111/tcp on 192.168.16.211
+[*] Nmap: Discovered open port 445/tcp on 192.168.16.212
+[*] Nmap: Discovered open port 111/tcp on 192.168.16.212
+[*] Nmap: Discovered open port 8009/tcp on 192.168.16.214
+[*] Nmap: Discovered open port 8009/tcp on 192.168.16.217
+[*] Nmap: Discovered open port 8009/tcp on 192.168.16.218
+[*] Nmap: Discovered open port 8009/tcp on 192.168.16.220
+[*] Nmap: Discovered open port 8009/tcp on 192.168.16.212
+[*] Nmap: Discovered open port 512/tcp on 192.168.16.217
+[*] Nmap: Discovered open port 512/tcp on 192.168.16.218
+[*] Nmap: Discovered open port 512/tcp on 192.168.16.214
+[*] Nmap: Discovered open port 512/tcp on 192.168.16.220
+[*] Nmap: Discovered open port 512/tcp on 192.168.16.211
+[*] Nmap: Discovered open port 5432/tcp on 192.168.16.214
+[*] Nmap: Discovered open port 5432/tcp on 192.168.16.217
+[*] Nmap: Discovered open port 5432/tcp on 192.168.16.218
+[*] Nmap: Discovered open port 5432/tcp on 192.168.16.220
+[*] Nmap: Discovered open port 512/tcp on 192.168.16.212
+[*] Nmap: Discovered open port 21/tcp on 192.168.16.252
+[*] Nmap: Discovered open port 53/tcp on 192.168.16.251
+[*] Nmap: Discovered open port 53/tcp on 192.168.16.252
+[*] Nmap: Discovered open port 53/tcp on 192.168.16.254
+[*] Nmap: Discovered open port 22/tcp on 192.168.16.251
+[*] Nmap: Discovered open port 22/tcp on 192.168.16.252
+[*] Nmap: Discovered open port 22/tcp on 192.168.16.254
+[*] Nmap: Discovered open port 21/tcp on 192.168.16.254
+[*] Nmap: Discovered open port 80/tcp on 192.168.16.251
+[*] Nmap: Discovered open port 443/tcp on 192.168.16.251
+[*] Nmap: Discovered open port 443/tcp on 192.168.16.252
+[*] Nmap: Discovered open port 6000/tcp on 192.168.16.217
+[*] Nmap: Discovered open port 6000/tcp on 192.168.16.214
+[*] Nmap: Discovered open port 6000/tcp on 192.168.16.220
+[*] Nmap: Discovered open port 6000/tcp on 192.168.16.218
+[*] Nmap: Discovered open port 514/tcp on 192.168.16.217
+[*] Nmap: Discovered open port 514/tcp on 192.168.16.201
+[*] Nmap: Discovered open port 514/tcp on 192.168.16.218
+[*] Nmap: Discovered open port 514/tcp on 192.168.16.214
+[*] Nmap: Discovered open port 514/tcp on 192.168.16.220
+[*] Nmap: Discovered open port 514/tcp on 192.168.16.211
+[*] Nmap: Discovered open port 443/tcp on 192.168.16.254
+[*] Nmap: Discovered open port 6000/tcp on 192.168.16.212
+[*] Nmap: Discovered open port 8180/tcp on 192.168.16.217
+[*] Nmap: Discovered open port 1524/tcp on 192.168.16.217
+[*] Nmap: Discovered open port 8180/tcp on 192.168.16.218
+[*] Nmap: Discovered open port 1524/tcp on 192.168.16.218
+[*] Nmap: Discovered open port 8180/tcp on 192.168.16.220
+[*] Nmap: Discovered open port 1524/tcp on 192.168.16.220
+[*] Nmap: Discovered open port 8180/tcp on 192.168.16.214
+[*] Nmap: Discovered open port 1524/tcp on 192.168.16.214
+[*] Nmap: Discovered open port 514/tcp on 192.168.16.212
+[*] Nmap: Discovered open port 2049/tcp on 192.168.16.217
+[*] Nmap: Discovered open port 2049/tcp on 192.168.16.218
+[*] Nmap: Discovered open port 2049/tcp on 192.168.16.220
+[*] Nmap: Discovered open port 2049/tcp on 192.168.16.219
+[*] Nmap: Discovered open port 8180/tcp on 192.168.16.212
+[*] Nmap: Discovered open port 1524/tcp on 192.168.16.212
+[*] Nmap: Discovered open port 2049/tcp on 192.168.16.214
+[*] Nmap: Discovered open port 6667/tcp on 192.168.16.217
+[*] Nmap: Discovered open port 6667/tcp on 192.168.16.220
+[*] Nmap: Discovered open port 6667/tcp on 192.168.16.218
+[*] Nmap: Discovered open port 2049/tcp on 192.168.16.211
+[*] Nmap: Discovered open port 6667/tcp on 192.168.16.214
+[*] Nmap: Discovered open port 1099/tcp on 192.168.16.217
+[*] Nmap: Discovered open port 1099/tcp on 192.168.16.218
+[*] Nmap: Discovered open port 1099/tcp on 192.168.16.220
+[*] Nmap: Discovered open port 1099/tcp on 192.168.16.214
+[*] Nmap: Discovered open port 2049/tcp on 192.168.16.212
+[*] Nmap: Discovered open port 6667/tcp on 192.168.16.212
+[*] Nmap: Discovered open port 2121/tcp on 192.168.16.220
+[*] Nmap: Discovered open port 2121/tcp on 192.168.16.218
+[*] Nmap: Discovered open port 2121/tcp on 192.168.16.217
+[*] Nmap: Discovered open port 2121/tcp on 192.168.16.214
+[*] Nmap: Discovered open port 1099/tcp on 192.168.16.212
+[*] Nmap: Discovered open port 2121/tcp on 192.168.16.211
+[*] Nmap: Discovered open port 513/tcp on 192.168.16.220
+[*] Nmap: Discovered open port 513/tcp on 192.168.16.218
+[*] Nmap: Discovered open port 513/tcp on 192.168.16.217
+[*] Nmap: Discovered open port 513/tcp on 192.168.16.214
+[*] Nmap: Discovered open port 513/tcp on 192.168.16.211
+[*] Nmap: Discovered open port 513/tcp on 192.168.16.212
+[*] Nmap: Completed SYN Stealth Scan against 192.168.16.200 in 9.07s (22 hosts left)
+[*] Nmap: Completed SYN Stealth Scan against 192.168.16.219 in 9.19s (21 hosts left)
+[*] Nmap: Completed SYN Stealth Scan against 192.168.16.220 in 9.22s (20 hosts left)
+[*] Nmap: Completed SYN Stealth Scan against 192.168.16.218 in 9.23s (19 hosts left)
+[*] Nmap: Completed SYN Stealth Scan against 192.168.16.201 in 9.24s (18 hosts left)
+[*] Nmap: Completed SYN Stealth Scan against 192.168.16.203 in 9.27s (17 hosts left)
+[*] Nmap: Completed SYN Stealth Scan against 192.168.16.217 in 9.27s (16 hosts left)
+[*] Nmap: Completed SYN Stealth Scan against 192.168.16.214 in 9.29s (15 hosts left)
+[*] Nmap: Completed SYN Stealth Scan against 192.168.16.209 in 9.40s (14 hosts left)
+[*] Nmap: Completed SYN Stealth Scan against 192.168.16.202 in 9.43s (13 hosts left)
+[*] Nmap: Completed SYN Stealth Scan against 192.168.16.204 in 9.43s (12 hosts left)
+[*] Nmap: Completed SYN Stealth Scan against 192.168.16.207 in 9.44s (11 hosts left)
+[*] Nmap: Completed SYN Stealth Scan against 192.168.16.210 in 9.46s (10 hosts left)
+[*] Nmap: Completed SYN Stealth Scan against 192.168.16.211 in 9.46s (9 hosts left)
+[*] Nmap: Completed SYN Stealth Scan against 192.168.16.205 in 9.46s (8 hosts left)
+[*] Nmap: Completed SYN Stealth Scan against 192.168.16.206 in 9.46s (7 hosts left)
+[*] Nmap: Completed SYN Stealth Scan against 192.168.16.212 in 10.05s (6 hosts left)
+[*] Nmap: Completed SYN Stealth Scan against 192.168.16.251 in 11.34s (5 hosts left)
+[*] Nmap: Completed SYN Stealth Scan against 192.168.16.252 in 11.35s (4 hosts left)
+[*] Nmap: Completed SYN Stealth Scan against 192.168.16.215 in 11.49s (3 hosts left)
+[*] Nmap: Completed SYN Stealth Scan against 192.168.16.213 in 11.55s (2 hosts left)
+[*] Nmap: Completed SYN Stealth Scan against 192.168.16.216 in 11.56s (1 host left)
+[*] Nmap: Completed SYN Stealth Scan at 11:37, 13.54s elapsed (23000 total ports)
+[*] Nmap: Initiating OS detection (try #1) against 23 hosts
+[*] Nmap: Retrying OS detection (try #2) against 5 hosts
+[*] Nmap: Nmap scan report for gateway.cs.uml.edu (192.168.16.200)
+[*] Nmap: Host is up (0.00075s latency).
+[*] Nmap: Not shown: 999 closed ports
+[*] Nmap: PORT   STATE SERVICE
+[*] Nmap: 22/tcp open  ssh
+[*] Nmap: MAC Address: 00:50:56:BE:E4:64 (VMware)
+[*] Nmap: Device type: general purpose
+[*] Nmap: Running: Linux 3.X|4.X
+[*] Nmap: OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+[*] Nmap: OS details: Linux 3.2 - 4.4
+[*] Nmap: Uptime guess: 22.767 days (since Fri Apr  7 17:12:40 2017)
+[*] Nmap: Network Distance: 1 hop
+[*] Nmap: TCP Sequence Prediction: Difficulty=255 (Good luck!)
+[*] Nmap: IP ID Sequence Generation: All zeros
+[*] Nmap: Nmap scan report for kali1.cs.uml.edu (192.168.16.201)
+[*] Nmap: Host is up (0.00073s latency).
+[*] Nmap: Not shown: 998 closed ports
+[*] Nmap: PORT    STATE SERVICE
+[*] Nmap: 22/tcp  open  ssh
+[*] Nmap: 514/tcp open  shell
+[*] Nmap: MAC Address: 00:50:56:BE:2F:F9 (VMware)
+[*] Nmap: Device type: general purpose
+[*] Nmap: Running: Linux 3.X|4.X
+[*] Nmap: OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+[*] Nmap: OS details: Linux 3.2 - 4.4
+[*] Nmap: Uptime guess: 24.896 days (since Wed Apr  5 14:06:42 2017)
+[*] Nmap: Network Distance: 1 hop
+[*] Nmap: TCP Sequence Prediction: Difficulty=254 (Good luck!)
+[*] Nmap: IP ID Sequence Generation: All zeros
+[*] Nmap: Nmap scan report for kali2.cs.uml.edu (192.168.16.202)
+[*] Nmap: Host is up (0.00052s latency).
+[*] Nmap: Not shown: 999 closed ports
+[*] Nmap: PORT   STATE SERVICE
+[*] Nmap: 22/tcp open  ssh
+[*] Nmap: MAC Address: 00:50:56:BE:26:2B (VMware)
+[*] Nmap: Device type: general purpose
+[*] Nmap: Running: Linux 3.X|4.X
+[*] Nmap: OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+[*] Nmap: OS details: Linux 3.2 - 4.4
+[*] Nmap: Uptime guess: 22.764 days (since Fri Apr  7 17:17:19 2017)
+[*] Nmap: Network Distance: 1 hop
+[*] Nmap: TCP Sequence Prediction: Difficulty=260 (Good luck!)
+[*] Nmap: IP ID Sequence Generation: All zeros
+[*] Nmap: Nmap scan report for kali3.cs.uml.edu (192.168.16.203)
+[*] Nmap: Host is up (0.00074s latency).
+[*] Nmap: Not shown: 999 closed ports
+[*] Nmap: PORT   STATE SERVICE
+[*] Nmap: 22/tcp open  ssh
+[*] Nmap: MAC Address: 00:50:56:BE:B4:C5 (VMware)
+[*] Nmap: Device type: general purpose
+[*] Nmap: Running: Linux 3.X|4.X
+[*] Nmap: OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+[*] Nmap: OS details: Linux 3.2 - 4.4
+[*] Nmap: Uptime guess: 24.897 days (since Wed Apr  5 14:05:26 2017)
+[*] Nmap: Network Distance: 1 hop
+[*] Nmap: TCP Sequence Prediction: Difficulty=258 (Good luck!)
+[*] Nmap: IP ID Sequence Generation: All zeros
+[*] Nmap: Nmap scan report for kali4.cs.uml.edu (192.168.16.204)
+[*] Nmap: Host is up (0.0012s latency).
+[*] Nmap: Not shown: 999 closed ports
+[*] Nmap: PORT   STATE SERVICE
+[*] Nmap: 22/tcp open  ssh
+[*] Nmap: MAC Address: 00:50:56:BE:66:7E (VMware)
+[*] Nmap: Device type: general purpose
+[*] Nmap: Running: Linux 3.X|4.X
+[*] Nmap: OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+[*] Nmap: OS details: Linux 3.2 - 4.4
+[*] Nmap: Uptime guess: 24.898 days (since Wed Apr  5 14:04:15 2017)
+[*] Nmap: Network Distance: 1 hop
+[*] Nmap: TCP Sequence Prediction: Difficulty=260 (Good luck!)
+[*] Nmap: IP ID Sequence Generation: All zeros
+[*] Nmap: Nmap scan report for kali5.cs.uml.edu (192.168.16.205)
+[*] Nmap: Host is up (0.00049s latency).
+[*] Nmap: Not shown: 999 closed ports
+[*] Nmap: PORT   STATE SERVICE
+[*] Nmap: 22/tcp open  ssh
+[*] Nmap: MAC Address: 00:50:56:BE:60:1D (VMware)
+[*] Nmap: Device type: general purpose
+[*] Nmap: Running: Linux 3.X|4.X
+[*] Nmap: OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+[*] Nmap: OS details: Linux 3.2 - 4.4
+[*] Nmap: Uptime guess: 24.899 days (since Wed Apr  5 14:03:04 2017)
+[*] Nmap: Network Distance: 1 hop
+[*] Nmap: TCP Sequence Prediction: Difficulty=262 (Good luck!)
+[*] Nmap: IP ID Sequence Generation: All zeros
+[*] Nmap: Nmap scan report for kali6.cs.uml.edu (192.168.16.206)
+[*] Nmap: Host is up (0.00053s latency).
+[*] Nmap: Not shown: 999 closed ports
+[*] Nmap: PORT   STATE SERVICE
+[*] Nmap: 22/tcp open  ssh
+[*] Nmap: MAC Address: 00:50:56:BE:97:65 (VMware)
+[*] Nmap: Device type: general purpose
+[*] Nmap: Running: Linux 3.X|4.X
+[*] Nmap: OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+[*] Nmap: OS details: Linux 3.2 - 4.4
+[*] Nmap: Uptime guess: 24.900 days (since Wed Apr  5 14:01:29 2017)
+[*] Nmap: Network Distance: 1 hop
+[*] Nmap: TCP Sequence Prediction: Difficulty=263 (Good luck!)
+[*] Nmap: IP ID Sequence Generation: All zeros
+[*] Nmap: Nmap scan report for kali7.cs.uml.edu (192.168.16.207)
+[*] Nmap: Host is up (0.00084s latency).
+[*] Nmap: Not shown: 999 closed ports
+[*] Nmap: PORT   STATE SERVICE
+[*] Nmap: 22/tcp open  ssh
+[*] Nmap: MAC Address: 00:50:56:BE:41:38 (VMware)
+[*] Nmap: Device type: general purpose
+[*] Nmap: Running: Linux 3.X|4.X
+[*] Nmap: OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+[*] Nmap: OS details: Linux 3.2 - 4.4
+[*] Nmap: Uptime guess: 3.723 days (since Wed Apr 26 18:16:00 2017)
+[*] Nmap: Network Distance: 1 hop
+[*] Nmap: TCP Sequence Prediction: Difficulty=261 (Good luck!)
+[*] Nmap: IP ID Sequence Generation: All zeros
+[*] Nmap: Nmap scan report for kali9.cs.uml.edu (192.168.16.209)
+[*] Nmap: Host is up (0.00071s latency).
+[*] Nmap: Not shown: 999 closed ports
+[*] Nmap: PORT   STATE SERVICE
+[*] Nmap: 22/tcp open  ssh
+[*] Nmap: MAC Address: 00:50:56:BE:19:E7 (VMware)
+[*] Nmap: Device type: general purpose
+[*] Nmap: Running: Linux 3.X|4.X
+[*] Nmap: OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+[*] Nmap: OS details: Linux 3.2 - 4.4
+[*] Nmap: Uptime guess: 24.893 days (since Wed Apr  5 14:11:44 2017)
+[*] Nmap: Network Distance: 1 hop
+[*] Nmap: TCP Sequence Prediction: Difficulty=258 (Good luck!)
+[*] Nmap: IP ID Sequence Generation: All zeros
+[*] Nmap: Nmap scan report for kali10.cs.uml.edu (192.168.16.210)
+[*] Nmap: Host is up (0.0011s latency).
+[*] Nmap: Not shown: 999 closed ports
+[*] Nmap: PORT   STATE SERVICE
+[*] Nmap: 22/tcp open  ssh
+[*] Nmap: MAC Address: 00:50:56:BE:FF:DB (VMware)
+[*] Nmap: Device type: general purpose
+[*] Nmap: Running: Linux 3.X|4.X
+[*] Nmap: OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+[*] Nmap: OS details: Linux 3.2 - 4.4
+[*] Nmap: Uptime guess: 24.896 days (since Wed Apr  5 14:07:39 2017)
+[*] Nmap: Network Distance: 1 hop
+[*] Nmap: TCP Sequence Prediction: Difficulty=260 (Good luck!)
+[*] Nmap: IP ID Sequence Generation: All zeros
+[*] Nmap: Nmap scan report for metasexploit1.cs.uml.edu (192.168.16.211)
+[*] Nmap: Host is up (0.00059s latency).
+[*] Nmap: Not shown: 992 closed ports
+[*] Nmap: PORT     STATE SERVICE
+[*] Nmap: 22/tcp   open  ssh
+[*] Nmap: 53/tcp   open  domain
+[*] Nmap: 111/tcp  open  rpcbind
+[*] Nmap: 512/tcp  open  exec
+[*] Nmap: 513/tcp  open  login
+[*] Nmap: 514/tcp  open  shell
+[*] Nmap: 2049/tcp open  nfs
+[*] Nmap: 2121/tcp open  ccproxy-ftp
+[*] Nmap: MAC Address: 00:50:56:BE:4F:CD (VMware)
+[*] Nmap: Device type: general purpose
+[*] Nmap: Running: Linux 2.6.X
+[*] Nmap: OS CPE: cpe:/o:linux:linux_kernel:2.6
+[*] Nmap: OS details: Linux 2.6.9 - 2.6.33
+[*] Nmap: Uptime guess: 6.458 days (since Mon Apr 24 00:38:31 2017)
+[*] Nmap: Network Distance: 1 hop
+[*] Nmap: TCP Sequence Prediction: Difficulty=199 (Good luck!)
+[*] Nmap: IP ID Sequence Generation: All zeros
+[*] Nmap: Nmap scan report for metasexploit2.cs.uml.edu (192.168.16.212)
+[*] Nmap: Host is up (0.00055s latency).
+[*] Nmap: Not shown: 980 closed ports
+[*] Nmap: PORT     STATE SERVICE
+[*] Nmap: 21/tcp   open  ftp
+[*] Nmap: 22/tcp   open  ssh
+[*] Nmap: 23/tcp   open  telnet
+[*] Nmap: 25/tcp   open  smtp
+[*] Nmap: 53/tcp   open  domain
+[*] Nmap: 111/tcp  open  rpcbind
+[*] Nmap: 139/tcp  open  netbios-ssn
+[*] Nmap: 445/tcp  open  microsoft-ds
+[*] Nmap: 512/tcp  open  exec
+[*] Nmap: 513/tcp  open  login
+[*] Nmap: 514/tcp  open  shell
+[*] Nmap: 1099/tcp open  rmiregistry
+[*] Nmap: 1524/tcp open  ingreslock
+[*] Nmap: 2049/tcp open  nfs
+[*] Nmap: 3306/tcp open  mysql
+[*] Nmap: 5900/tcp open  vnc
+[*] Nmap: 6000/tcp open  X11
+[*] Nmap: 6667/tcp open  irc
+[*] Nmap: 8009/tcp open  ajp13
+[*] Nmap: 8180/tcp open  unknown
+[*] Nmap: MAC Address: 00:50:56:BE:4C:89 (VMware)
+[*] Nmap: Device type: general purpose
+[*] Nmap: Running: Linux 2.6.X
+[*] Nmap: OS CPE: cpe:/o:linux:linux_kernel:2.6
+[*] Nmap: OS details: Linux 2.6.9 - 2.6.33
+[*] Nmap: Uptime guess: 3.912 days (since Wed Apr 26 13:44:53 2017)
+[*] Nmap: Network Distance: 1 hop
+[*] Nmap: TCP Sequence Prediction: Difficulty=199 (Good luck!)
+[*] Nmap: IP ID Sequence Generation: All zeros
+[*] Nmap: Nmap scan report for metasexploit3.cs.uml.edu (192.168.16.213)
+[*] Nmap: Host is up (0.00025s latency).
+[*] Nmap: All 1000 scanned ports on metasexploit3.cs.uml.edu (192.168.16.213) are filtered
+[*] Nmap: MAC Address: 00:50:56:BE:46:C8 (VMware)
+[*] Nmap: Too many fingerprints match this host to give specific OS details
+[*] Nmap: Network Distance: 1 hop
+[*] Nmap: Nmap scan report for metasexploit4.cs.uml.edu (192.168.16.214)
+[*] Nmap: Host is up (0.00051s latency).
+[*] Nmap: Not shown: 977 closed ports
+[*] Nmap: PORT     STATE SERVICE
+[*] Nmap: 21/tcp   open  ftp
+[*] Nmap: 22/tcp   open  ssh
+[*] Nmap: 23/tcp   open  telnet
+[*] Nmap: 25/tcp   open  smtp
+[*] Nmap: 53/tcp   open  domain
+[*] Nmap: 80/tcp   open  http
+[*] Nmap: 111/tcp  open  rpcbind
+[*] Nmap: 139/tcp  open  netbios-ssn
+[*] Nmap: 445/tcp  open  microsoft-ds
+[*] Nmap: 512/tcp  open  exec
+[*] Nmap: 513/tcp  open  login
+[*] Nmap: 514/tcp  open  shell
+[*] Nmap: 1099/tcp open  rmiregistry
+[*] Nmap: 1524/tcp open  ingreslock
+[*] Nmap: 2049/tcp open  nfs
+[*] Nmap: 2121/tcp open  ccproxy-ftp
+[*] Nmap: 3306/tcp open  mysql
+[*] Nmap: 5432/tcp open  postgresql
+[*] Nmap: 5900/tcp open  vnc
+[*] Nmap: 6000/tcp open  X11
+[*] Nmap: 6667/tcp open  irc
+[*] Nmap: 8009/tcp open  ajp13
+[*] Nmap: 8180/tcp open  unknown
+[*] Nmap: MAC Address: 00:50:56:BA:E2:AD (VMware)
+[*] Nmap: Device type: general purpose
+[*] Nmap: Running: Linux 2.6.X
+[*] Nmap: OS CPE: cpe:/o:linux:linux_kernel:2.6
+[*] Nmap: OS details: Linux 2.6.9 - 2.6.33
+[*] Nmap: Uptime guess: 2.987 days (since Thu Apr 27 11:56:00 2017)
+[*] Nmap: Network Distance: 1 hop
+[*] Nmap: TCP Sequence Prediction: Difficulty=195 (Good luck!)
+[*] Nmap: IP ID Sequence Generation: All zeros
+[*] Nmap: Nmap scan report for metasexploit5.cs.uml.edu (192.168.16.215)
+[*] Nmap: Host is up (0.00067s latency).
+[*] Nmap: Not shown: 999 filtered ports
+[*] Nmap: PORT   STATE  SERVICE
+[*] Nmap: 22/tcp closed ssh
+[*] Nmap: MAC Address: 00:50:56:BE:27:8E (VMware)
+[*] Nmap: Too many fingerprints match this host to give specific OS details
+[*] Nmap: Network Distance: 1 hop
+[*] Nmap: Nmap scan report for metasexploit6.cs.uml.edu (192.168.16.216)
+[*] Nmap: Host is up (0.00036s latency).
+[*] Nmap: All 1000 scanned ports on metasexploit6.cs.uml.edu (192.168.16.216) are filtered
+[*] Nmap: MAC Address: 00:50:56:BE:BB:FC (VMware)
+[*] Nmap: Too many fingerprints match this host to give specific OS details
+[*] Nmap: Network Distance: 1 hop
+[*] Nmap: Nmap scan report for metasexploit7.cs.uml.edu (192.168.16.217)
+[*] Nmap: Host is up (0.00036s latency).
+[*] Nmap: Not shown: 977 closed ports
+[*] Nmap: PORT     STATE SERVICE
+[*] Nmap: 21/tcp   open  ftp
+[*] Nmap: 22/tcp   open  ssh
+[*] Nmap: 23/tcp   open  telnet
+[*] Nmap: 25/tcp   open  smtp
+[*] Nmap: 53/tcp   open  domain
+[*] Nmap: 80/tcp   open  http
+[*] Nmap: 111/tcp  open  rpcbind
+[*] Nmap: 139/tcp  open  netbios-ssn
+[*] Nmap: 445/tcp  open  microsoft-ds
+[*] Nmap: 512/tcp  open  exec
+[*] Nmap: 513/tcp  open  login
+[*] Nmap: 514/tcp  open  shell
+[*] Nmap: 1099/tcp open  rmiregistry
+[*] Nmap: 1524/tcp open  ingreslock
+[*] Nmap: 2049/tcp open  nfs
+[*] Nmap: 2121/tcp open  ccproxy-ftp
+[*] Nmap: 3306/tcp open  mysql
+[*] Nmap: 5432/tcp open  postgresql
+[*] Nmap: 5900/tcp open  vnc
+[*] Nmap: 6000/tcp open  X11
+[*] Nmap: 6667/tcp open  irc
+[*] Nmap: 8009/tcp open  ajp13
+[*] Nmap: 8180/tcp open  unknown
+[*] Nmap: MAC Address: 00:50:56:BA:2D:99 (VMware)
+[*] Nmap: Device type: general purpose
+[*] Nmap: Running: Linux 2.6.X
+[*] Nmap: OS CPE: cpe:/o:linux:linux_kernel:2.6
+[*] Nmap: OS details: Linux 2.6.9 - 2.6.33
+[*] Nmap: Uptime guess: 3.602 days (since Wed Apr 26 21:11:01 2017)
+[*] Nmap: Network Distance: 1 hop
+[*] Nmap: TCP Sequence Prediction: Difficulty=201 (Good luck!)
+[*] Nmap: IP ID Sequence Generation: All zeros
+[*] Nmap: Nmap scan report for metasexploit8.cs.uml.edu (192.168.16.218)
+[*] Nmap: Host is up (0.00044s latency).
+[*] Nmap: Not shown: 979 closed ports
+[*] Nmap: PORT     STATE SERVICE
+[*] Nmap: 21/tcp   open  ftp
+[*] Nmap: 22/tcp   open  ssh
+[*] Nmap: 23/tcp   open  telnet
+[*] Nmap: 25/tcp   open  smtp
+[*] Nmap: 53/tcp   open  domain
+[*] Nmap: 80/tcp   open  http
+[*] Nmap: 111/tcp  open  rpcbind
+[*] Nmap: 512/tcp  open  exec
+[*] Nmap: 513/tcp  open  login
+[*] Nmap: 514/tcp  open  shell
+[*] Nmap: 1099/tcp open  rmiregistry
+[*] Nmap: 1524/tcp open  ingreslock
+[*] Nmap: 2049/tcp open  nfs
+[*] Nmap: 2121/tcp open  ccproxy-ftp
+[*] Nmap: 3306/tcp open  mysql
+[*] Nmap: 5432/tcp open  postgresql
+[*] Nmap: 5900/tcp open  vnc
+[*] Nmap: 6000/tcp open  X11
+[*] Nmap: 6667/tcp open  irc
+[*] Nmap: 8009/tcp open  ajp13
+[*] Nmap: 8180/tcp open  unknown
+[*] Nmap: MAC Address: 00:50:56:BA:9B:9E (VMware)
+[*] Nmap: Device type: general purpose
+[*] Nmap: Running: Linux 2.6.X
+[*] Nmap: OS CPE: cpe:/o:linux:linux_kernel:2.6
+[*] Nmap: OS details: Linux 2.6.9 - 2.6.33
+[*] Nmap: Uptime guess: 2.652 days (since Thu Apr 27 19:58:20 2017)
+[*] Nmap: Network Distance: 1 hop
+[*] Nmap: TCP Sequence Prediction: Difficulty=203 (Good luck!)
+[*] Nmap: IP ID Sequence Generation: All zeros
+[*] Nmap: Nmap scan report for metasexploit9.cs.uml.edu (192.168.16.219)
+[*] Nmap: Host is up (0.00046s latency).
+[*] Nmap: Not shown: 998 closed ports
+[*] Nmap: PORT     STATE SERVICE
+[*] Nmap: 22/tcp   open  ssh
+[*] Nmap: 2049/tcp open  nfs
+[*] Nmap: MAC Address: 00:50:56:BE:95:DB (VMware)
+[*] Nmap: Device type: general purpose
+[*] Nmap: Running: Linux 2.6.X
+[*] Nmap: OS CPE: cpe:/o:linux:linux_kernel:2.6
+[*] Nmap: OS details: Linux 2.6.9 - 2.6.33
+[*] Nmap: Uptime guess: 18.792 days (since Tue Apr 11 16:37:16 2017)
+[*] Nmap: Network Distance: 1 hop
+[*] Nmap: TCP Sequence Prediction: Difficulty=201 (Good luck!)
+[*] Nmap: IP ID Sequence Generation: All zeros
+[*] Nmap: Nmap scan report for metasexploit10.cs.uml.edu (192.168.16.220)
+[*] Nmap: Host is up (0.00058s latency).
+[*] Nmap: Not shown: 977 closed ports
+[*] Nmap: PORT     STATE SERVICE
+[*] Nmap: 21/tcp   open  ftp
+[*] Nmap: 22/tcp   open  ssh
+[*] Nmap: 23/tcp   open  telnet
+[*] Nmap: 25/tcp   open  smtp
+[*] Nmap: 53/tcp   open  domain
+[*] Nmap: 80/tcp   open  http
+[*] Nmap: 111/tcp  open  rpcbind
+[*] Nmap: 139/tcp  open  netbios-ssn
+[*] Nmap: 445/tcp  open  microsoft-ds
+[*] Nmap: 512/tcp  open  exec
+[*] Nmap: 513/tcp  open  login
+[*] Nmap: 514/tcp  open  shell
+[*] Nmap: 1099/tcp open  rmiregistry
+[*] Nmap: 1524/tcp open  ingreslock
+[*] Nmap: 2049/tcp open  nfs
+[*] Nmap: 2121/tcp open  ccproxy-ftp
+[*] Nmap: 3306/tcp open  mysql
+[*] Nmap: 5432/tcp open  postgresql
+[*] Nmap: 5900/tcp open  vnc
+[*] Nmap: 6000/tcp open  X11
+[*] Nmap: 6667/tcp open  irc
+[*] Nmap: 8009/tcp open  ajp13
+[*] Nmap: 8180/tcp open  unknown
+[*] Nmap: MAC Address: 00:50:56:BA:D3:80 (VMware)
+[*] Nmap: Device type: general purpose
+[*] Nmap: Running: Linux 2.6.X
+[*] Nmap: OS CPE: cpe:/o:linux:linux_kernel:2.6
+[*] Nmap: OS details: Linux 2.6.9 - 2.6.33
+[*] Nmap: Uptime guess: 2.712 days (since Thu Apr 27 18:32:25 2017)
+[*] Nmap: Network Distance: 1 hop
+[*] Nmap: TCP Sequence Prediction: Difficulty=206 (Good luck!)
+[*] Nmap: IP ID Sequence Generation: All zeros
+[*] Nmap: Nmap scan report for 192.168.16.251
+[*] Nmap: Host is up (0.00090s latency).
+[*] Nmap: Not shown: 996 filtered ports
+[*] Nmap: PORT    STATE SERVICE
+[*] Nmap: 22/tcp  open  ssh
+[*] Nmap: 53/tcp  open  domain
+[*] Nmap: 80/tcp  open  http
+[*] Nmap: 443/tcp open  https
+[*] Nmap: MAC Address: 00:50:56:96:4B:0A (VMware)
+[*] Nmap: Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+[*] Nmap: Device type: specialized
+[*] Nmap: Running (JUST GUESSING): Comau embedded (92%)
+[*] Nmap: Aggressive OS guesses: Comau C4G robot control unit (92%)
+[*] Nmap: No exact OS matches for host (test conditions non-ideal).
+[*] Nmap: Uptime guess: 0.000 days (since Sun Apr 30 11:37:25 2017)
+[*] Nmap: Network Distance: 1 hop
+[*] Nmap: TCP Sequence Prediction: Difficulty=261 (Good luck!)
+[*] Nmap: IP ID Sequence Generation: Randomized
+[*] Nmap: Nmap scan report for 192.168.16.252
+[*] Nmap: Host is up (0.00071s latency).
+[*] Nmap: Not shown: 996 filtered ports
+[*] Nmap: PORT    STATE SERVICE
+[*] Nmap: 21/tcp  open  ftp
+[*] Nmap: 22/tcp  open  ssh
+[*] Nmap: 53/tcp  open  domain
+[*] Nmap: 443/tcp open  https
+[*] Nmap: MAC Address: 00:50:56:AE:42:35 (VMware)
+[*] Nmap: Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+[*] Nmap: Device type: specialized
+[*] Nmap: Running: Comau embedded
+[*] Nmap: OS details: Comau C4G robot control unit
+[*] Nmap: Uptime guess: 0.000 days (since Sun Apr 30 11:37:16 2017)
+[*] Nmap: Network Distance: 1 hop
+[*] Nmap: TCP Sequence Prediction: Difficulty=260 (Good luck!)
+[*] Nmap: IP ID Sequence Generation: Randomized
+[*] Nmap: Nmap scan report for 192.168.16.254
+[*] Nmap: Host is up (0.00068s latency).
+[*] Nmap: Not shown: 996 filtered ports
+[*] Nmap: PORT    STATE SERVICE
+[*] Nmap: 21/tcp  open  ftp
+[*] Nmap: 22/tcp  open  ssh
+[*] Nmap: 53/tcp  open  domain
+[*] Nmap: 443/tcp open  https
+[*] Nmap: MAC Address: 00:00:5E:00:01:10 (Icann, Iana Department)
+[*] Nmap: Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+[*] Nmap: Device type: switch|general purpose|specialized|media device|WAP
+[*] Nmap: Running (JUST GUESSING): HP embedded (97%), Linux 2.6.X (94%), Comau embedded (90%), Apple Apple TV 5.X (88%), D-Link embedded (88%), TRENDnet embedded (88%), AVtech embedded (88%)
+[*] Nmap: OS CPE: cpe:/h:hp:procurve_switch_4000m cpe:/o:linux:linux_kernel:2.6 cpe:/a:apple:apple_tv:5.2.1 cpe:/a:apple:apple_tv:5.3 cpe:/h:dlink:dwl-624%2b cpe:/h:dlink:dwl-2000ap cpe:/h:trendnet:tew-432brp
+[*] Nmap: Aggressive OS guesses: HP 4000M ProCurve switch (J4121A) (97%), Linux 2.6.18 - 2.6.22 (94%), Comau C4G robot control unit (90%), Apple TV 5.2.1 or 5.3 (88%), D-Link DWL-624+ or DWL-2000AP, or TRENDnet TEW-432BRP WAP (88%), AVtech Room Alert 26W environmental monitor (88%)
+[*] Nmap: No exact OS matches for host (test conditions non-ideal).
+[*] Nmap: Network Distance: 1 hop
+[*] Nmap: Initiating SYN Stealth Scan at 11:37
+[*] Nmap: Scanning kali8.cs.uml.edu (192.168.16.208) [1000 ports]
+[*] Nmap: Discovered open port 22/tcp on 192.168.16.208
+[*] Nmap: Completed SYN Stealth Scan at 11:37, 0.04s elapsed (1000 total ports)
+[*] Nmap: Initiating OS detection (try #1) against kali8.cs.uml.edu (192.168.16.208)
+[*] Nmap: Nmap scan report for kali8.cs.uml.edu (192.168.16.208)
+[*] Nmap: Host is up (0.000069s latency).
+[*] Nmap: Not shown: 999 closed ports
+[*] Nmap: PORT   STATE SERVICE
+[*] Nmap: 22/tcp open  ssh
+[*] Nmap: Device type: general purpose
+[*] Nmap: Running: Linux 3.X|4.X
+[*] Nmap: OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+[*] Nmap: OS details: Linux 3.8 - 4.5
+[*] Nmap: Uptime guess: 24.696 days (since Wed Apr  5 18:55:15 2017)
+[*] Nmap: Network Distance: 0 hops
+[*] Nmap: TCP Sequence Prediction: Difficulty=262 (Good luck!)
+[*] Nmap: IP ID Sequence Generation: All zeros
+[*] Nmap: Read data files from: /usr/bin/../share/nmap
+[*] Nmap: OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+[*] Nmap: Nmap done: 256 IP addresses (24 hosts up) scanned in 29.41 seconds
+[*] Nmap: Raw packets sent: 32179 (1.441MB) | Rcvd: 19929 (824.156KB)
+msf >

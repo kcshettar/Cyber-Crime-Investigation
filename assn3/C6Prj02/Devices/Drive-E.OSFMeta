@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<OSFCaseMetaInfo Type="Device">
+    <!--OSForensics Case Meta Info File-->
+    <OSFVersionInfo MajorVersion="2" MinorVersion="2" Build="1000" />
+    <Title>Drive-E</Title>
+    <Notes></Notes>
+    <Module>Case Manager</Module>
+    <AddedToCase TimeZone="UTC" Year="2017" Month="3" Day="30" Hour="3" Minute="9" Second="59" />
+    <DevicePath>E:</DevicePath>
+    <DeviceType>2</DeviceType>
+    <PartitionNo>0</PartitionNo>
+    <ShadowId></ShadowId>
+    <ShadowTime></ShadowTime>
+</OSFCaseMetaInfo>

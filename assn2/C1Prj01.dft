@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<PDProject> 
+	<PDProjectInfo> 
+		<ProjectName> C1Prj01 </ProjectName> 
+		<ProjectNumber> 20170225_01 </ProjectNumber> 
+		<ProjectDesc> The case in this project involves a suspicious death. Joshua Zarkan found his girlfriend's dead body in her apartment and reported it. The law enforcement officer seized a USB drive. An image of the USB was made and we are working on that now. We have to examine it and identify any evidentiary artifacts that might relate to this case. </ProjectDesc> 
+	</PDProjectInfo> 
+	<ProcessExplorer> 
+	</ProcessExplorer> 
+
+	<Image> 
+		<IFileName> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj01.eve </IFileName> 
+		<TypeOfDiskOrImage> Logical </TypeOfDiskOrImage> 
+		<IFileNumber> C2Proj01 </IFileNumber> 
+		<ITechnName> Joe Friday </ITechnName> 
+		<IDate> 07/29/2006 </IDate> 
+		<ITime> 18:05:44 </ITime> 
+		<IChecksum> c9bfd4d363ce0af8c5b94078737b68d8 </IChecksum> 
+		<IChecksumValidated> 0 </IChecksumValidated> 
+
+		<Drive> 
+			<DiskName> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj01.eve </DiskName> 
+			<OIVolName> TBC:00000000000000001200000000000000000001000000 </OIVolName> 
+			<OIFileSystem> FAT12 </OIFileSystem> 
+			<OIBPS> 512 </OIBPS> 
+			<OITotClust> 2847 </OITotClust> 
+			<OITotSec> 2880 </OITotSec> 
+			<OIHiddenSec> 0 </OIHiddenSec> 
+			<OITotCapacity> 1440 </OITotCapacity> 
+			<OIStartSec> 0 </OIStartSec> 
+			<OIEndSec> 2879 </OIEndSec> 
+
+			<EvidenceOfInterest> 
+			</EvidenceOfInterest> 
+
+			<SignatureMismatch> 
+			</SignatureMismatch> 
+
+			<EOIClusters> 
+			</EOIClusters> 
+
+
+		</Drive> 
+
+	</Image> 
+
+	<Registries> 
+	</Registries> 
+	<ELKeys> 
+	</ELKeys> 
+	<InternetHistView> 
+	</InternetHistView> 
+	<SearchResults> 
+
+	</SearchResults> 
+	<ProjectNotes> 
+	</ProjectNotes> 
+</PDProject> 

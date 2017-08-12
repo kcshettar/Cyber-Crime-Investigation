@@ -1,0 +1,8 @@
+Log of fsck -C -R -A -a 
+Thu Apr 27 19:17:03 2017
+
+fsck 1.40.8 (13-Mar-2008)
+/dev/sda1: clean, 32/60240 files, 32968/240940 blocks
+
+Thu Apr 27 19:17:03 2017
+----------------

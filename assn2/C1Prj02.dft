@@ -1,0 +1,298 @@
+<?xml version="1.0"?>
+<PDProject> 
+	<PDProjectInfo> 
+		<ProjectName> C1Prj02 </ProjectName> 
+		<ProjectNumber> 1-2 </ProjectNumber> 
+		<ProjectDesc> Conducting internal computing investigations and forensic examinations on company computing systems. Examining the USB drive of a previous employee who left the company. Making sure that if there's significant data on the USB drive of the employee who left the company and joined a competetive company. I am supposed to check if there is a document in the USB with the text "book" in it. </ProjectDesc> 
+	</PDProjectInfo> 
+	<ProcessExplorer> 
+	</ProcessExplorer> 
+
+	<Image> 
+		<IFileName> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj02.eve </IFileName> 
+		<TypeOfDiskOrImage> Logical </TypeOfDiskOrImage> 
+		<IFileNumber> C2Prj02t </IFileNumber> 
+		<ITechnName> Joe Friday </ITechnName> 
+		<IDate> 07/29/2006 </IDate> 
+		<ITime> 20:35:09 </ITime> 
+		<IChecksum> aea75c84294af7765980333b61c94f3b </IChecksum> 
+		<IChecksumValidated> 0 </IChecksumValidated> 
+
+		<Drive> 
+			<DiskName> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj02.eve </DiskName> 
+			<OIVolName> NO NAME     </OIVolName> 
+			<OIVolSerNum> FC6E-155B </OIVolSerNum> 
+			<OIFileSystem> FAT32 </OIFileSystem> 
+			<OIBPS> 512 </OIBPS> 
+			<OITotClust> 125972 </OITotClust> 
+			<OITotSec> 253952 </OITotSec> 
+			<OIHiddenSec> 0 </OIHiddenSec> 
+			<OITotCapacity> 126976 </OITotCapacity> 
+			<OIStartSec> 0 </OIStartSec> 
+			<OIEndSec> 253951 </OIEndSec> 
+
+			<EvidenceOfInterest> 
+			</EvidenceOfInterest> 
+
+			<SignatureMismatch> 
+			</SignatureMismatch> 
+
+			<EOIClusters> 
+			</EOIClusters> 
+
+
+		</Drive> 
+
+	</Image> 
+
+	<Registries> 
+	</Registries> 
+	<ELKeys> 
+	</ELKeys> 
+	<InternetHistView> 
+	</InternetHistView> 
+	<SearchResults> 
+
+		<ContentSearchResults> 
+			<SRPatternType> 0 </SRPatternType> 
+			<SRPatterns> book </SRPatterns> 
+			<SRKeywords> book </SRKeywords> 
+			<SRResultsOffset> 0 </SRResultsOffset> 
+			<SRResultsLen> 545 </SRResultsLen> 
+			<SRItem> 
+				<SRFileName> Interview.xls </SRFileName> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj02.eve\. </SearchResultsObject> 
+				<SRFileDeleted> 0 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> 3550b84498f9e12d9f13da081a444cad </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+		</ContentSearchResults> 
+		<ClusterSearchResults> 
+			<SRPatternType> 0 </SRPatternType> 
+			<SRResultsOffset> 1090 </SRResultsOffset> 
+			<SRResultsLen> 1563 </SRResultsLen> 
+			<SRPatterns> book </SRPatterns> 
+			<SRKeywords> book </SRKeywords> 
+			<SRItem> 
+				<SRClusterNum> 358 </SRClusterNum> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj02.eve </SearchResultsObject> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> 3fb11f98a0b2edc24605f90c4165e455 </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRClusterNum> 407 </SRClusterNum> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj02.eve </SearchResultsObject> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> 09db8e7c8bed5df5ebfdededa8d87896 </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRClusterNum> 86433 </SRClusterNum> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj02.eve </SearchResultsObject> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> 2da0ed75d5fc75523ecc59b7a179a6f3 </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRClusterNum> 86502 </SRClusterNum> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj02.eve </SearchResultsObject> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> 7f3e6547a376f08c21d94ba1dfb90633 </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRClusterNum> 86572 </SRClusterNum> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj02.eve </SearchResultsObject> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> dae2358cf8f04ac3792ca8d44fe6802a </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRClusterNum> 86653 </SRClusterNum> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj02.eve </SearchResultsObject> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> 6e4894b2e4e0f9a07f13eee9d9b1488f </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRClusterNum> 86789 </SRClusterNum> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj02.eve </SearchResultsObject> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> d8b58811daf71efde7df1427f659b63e </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRClusterNum> 86867 </SRClusterNum> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj02.eve </SearchResultsObject> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> ddd8e67dad95165dbbee9b6c15f26edc </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRClusterNum> 86924 </SRClusterNum> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj02.eve </SearchResultsObject> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> 245453737b01282391cbef507f53153e </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRClusterNum> 86981 </SRClusterNum> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj02.eve </SearchResultsObject> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> a6a9bcc3a46e3c10acd6699d9caf372c </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRClusterNum> 87077 </SRClusterNum> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj02.eve </SearchResultsObject> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> 36e9bcaa6cc82952fa180e94d0d4937e </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRClusterNum> 87171 </SRClusterNum> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj02.eve </SearchResultsObject> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> d3b57ba5749f680f1d3faae407779f6b </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRClusterNum> 87265 </SRClusterNum> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj02.eve </SearchResultsObject> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> c1956106a68f1d1af236a9a0baedf79d </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRClusterNum> 87364 </SRClusterNum> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj02.eve </SearchResultsObject> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> b1b88652cb18129d5e4a4fb1bf1a455f </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRClusterNum> 87440 </SRClusterNum> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj02.eve </SearchResultsObject> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> 7b5191b5a9eb44acbf082b398b5addf5 </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRClusterNum> 87511 </SRClusterNum> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj02.eve </SearchResultsObject> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> 71373b4e699d72622818db70a7f98882 </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRClusterNum> 87600 </SRClusterNum> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj02.eve </SearchResultsObject> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> f3198affa46bbcf8b52b03de42211e77 </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRClusterNum> 87690 </SRClusterNum> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj02.eve </SearchResultsObject> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> 750b72870640a0b33db6d32a521869d8 </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRClusterNum> 87766 </SRClusterNum> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj02.eve </SearchResultsObject> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> 87d93d8711a7541f13fcbf31c5a87013 </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRClusterNum> 87864 </SRClusterNum> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj02.eve </SearchResultsObject> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> 148975fc521cc46a0a5d8f774991770e </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRClusterNum> 87935 </SRClusterNum> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj02.eve </SearchResultsObject> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> db68caa70dad0dbd9fc8184d0265cf55 </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRClusterNum> 88035 </SRClusterNum> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj02.eve </SearchResultsObject> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> 48b8cef14f3ed974c87a8272f4d9d614 </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRClusterNum> 88101 </SRClusterNum> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj02.eve </SearchResultsObject> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> 9b99816df720b614af968567dee12156 </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRClusterNum> 88173 </SRClusterNum> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj02.eve </SearchResultsObject> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> 6109cdb2aa7dbeb7f6a3279d173bbbac </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRClusterNum> 88251 </SRClusterNum> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj02.eve </SearchResultsObject> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> 4ff5cbbf280f0c97f596388685bee393 </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRClusterNum> 88295 </SRClusterNum> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj02.eve </SearchResultsObject> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> 78f1231082751a303a7021870c053e3f </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+			<SRItem> 
+				<SRClusterNum> 88313 </SRClusterNum> 
+				<SearchResultsObject> C:\Users\kcshe\OneDrive\UML_Files\Spring 2017\Cyber Crime Investigation\handouts\DVD files\Chap01\Projects\C1Prj02.eve </SearchResultsObject> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+				<SearchMD5Hash> 8bb803380020877014be34c59f98d314 </SearchMD5Hash> 
+				<SearchSHA1Hash>  </SearchSHA1Hash> 
+				<SearchSHA256Hash>  </SearchSHA256Hash> 
+			</SRItem> 
+		</ClusterSearchResults> 
+	</SearchResults> 
+	<ProjectNotes> 
+	</ProjectNotes> 
+</PDProject> 

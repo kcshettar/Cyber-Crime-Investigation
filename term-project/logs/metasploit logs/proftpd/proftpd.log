@@ -1,0 +1,41 @@
+Apr 29 19:54:11 metasploitable proftpd[19494] metasploitable.localdomain (::ffff:192.168.16.202[::ffff:192.168.16.202]): FTP session opened.
+Apr 29 19:54:11 metasploitable proftpd[19494] metasploitable.localdomain (::ffff:192.168.16.202[::ffff:192.168.16.202]): FTP session closed.
+Apr 29 19:54:24 metasploitable proftpd[19543] metasploitable.localdomain (::ffff:192.168.16.202[::ffff:192.168.16.202]): FTP session opened.
+Apr 29 19:54:24 metasploitable proftpd[19544] metasploitable.localdomain (::ffff:192.168.16.202[::ffff:192.168.16.202]): FTP session opened.
+Apr 29 19:54:25 metasploitable proftpd[19545] metasploitable.localdomain (::ffff:192.168.16.202[::ffff:192.168.16.202]): FTP session opened.
+Apr 29 19:54:26 metasploitable proftpd[19546] metasploitable.localdomain (::ffff:192.168.16.202[::ffff:192.168.16.202]): FTP session opened.
+Apr 29 19:54:26 metasploitable proftpd[19547] metasploitable.localdomain (::ffff:192.168.16.202[::ffff:192.168.16.202]): FTP session opened.
+Apr 29 19:54:26 metasploitable proftpd[19548] metasploitable.localdomain (::ffff:192.168.16.202[::ffff:192.168.16.202]): FTP session opened.
+Apr 29 19:54:31 metasploitable proftpd[19546] metasploitable.localdomain (::ffff:192.168.16.202[::ffff:192.168.16.202]): FTP session closed.
+Apr 29 19:54:31 metasploitable proftpd[19544] metasploitable.localdomain (::ffff:192.168.16.202[::ffff:192.168.16.202]): FTP session closed.
+Apr 29 19:54:31 metasploitable proftpd[19545] metasploitable.localdomain (::ffff:192.168.16.202[::ffff:192.168.16.202]): FTP session closed.
+Apr 29 19:54:31 metasploitable proftpd[19548] metasploitable.localdomain (::ffff:192.168.16.202[::ffff:192.168.16.202]): no such user 'anonymous'
+Apr 29 19:54:31 metasploitable proftpd[19548] metasploitable.localdomain (::ffff:192.168.16.202[::ffff:192.168.16.202]): USER anonymous: no such user found from ::ffff:192.168.16.202 [::ffff:192.168.16.202] to ::ffff:192.168.16.218:2121
+Apr 29 19:54:31 metasploitable proftpd[19543] metasploitable.localdomain (::ffff:192.168.16.202[::ffff:192.168.16.202]): FTP session closed.
+Apr 29 19:54:31 metasploitable proftpd[19547] metasploitable.localdomain (::ffff:192.168.16.202[::ffff:192.168.16.202]): no such user 'anonymous'
+Apr 29 19:54:31 metasploitable proftpd[19547] metasploitable.localdomain (::ffff:192.168.16.202[::ffff:192.168.16.202]): USER anonymous: no such user found from ::ffff:192.168.16.202 [::ffff:192.168.16.202] to ::ffff:192.168.16.218:2121
+Apr 29 19:54:31 metasploitable proftpd[19548] metasploitable.localdomain (::ffff:192.168.16.202[::ffff:192.168.16.202]): FTP session closed.
+Apr 29 19:54:31 metasploitable proftpd[19547] metasploitable.localdomain (::ffff:192.168.16.202[::ffff:192.168.16.202]): FTP session closed.
+Apr 29 20:02:22 metasploitable proftpd[19638] metasploitable.localdomain (::ffff:192.168.16.202[::ffff:192.168.16.202]): FTP session opened.
+Apr 29 20:02:22 metasploitable proftpd[19638] metasploitable.localdomain (::ffff:192.168.16.202[::ffff:192.168.16.202]): FTP session closed.
+Apr 29 20:19:24 metasploitable proftpd[19754] metasploitable.localdomain (::ffff:192.168.16.202[::ffff:192.168.16.202]): FTP session opened.
+Apr 29 20:19:24 metasploitable proftpd[19754] metasploitable.localdomain (::ffff:192.168.16.202[::ffff:192.168.16.202]): FTP session closed.
+Apr 29 20:19:37 metasploitable proftpd[19777] metasploitable.localdomain (::ffff:192.168.16.202[::ffff:192.168.16.202]): FTP session opened.
+Apr 29 20:19:37 metasploitable proftpd[19778] metasploitable.localdomain (::ffff:192.168.16.202[::ffff:192.168.16.202]): FTP session opened.
+Apr 29 20:19:38 metasploitable proftpd[19780] metasploitable.localdomain (::ffff:192.168.16.202[::ffff:192.168.16.202]): FTP session opened.
+Apr 29 20:19:38 metasploitable proftpd[19789] metasploitable.localdomain (::ffff:192.168.16.202[::ffff:192.168.16.202]): FTP session opened.
+Apr 29 20:19:38 metasploitable proftpd[19792] metasploitable.localdomain (::ffff:192.168.16.202[::ffff:192.168.16.202]): FTP session opened.
+Apr 29 20:19:38 metasploitable proftpd[19793] metasploitable.localdomain (::ffff:192.168.16.202[::ffff:192.168.16.202]): FTP session opened.
+Apr 29 20:19:41 metasploitable proftpd[19778] metasploitable.localdomain (::ffff:192.168.16.202[::ffff:192.168.16.202]): FTP session closed.
+Apr 29 20:19:41 metasploitable proftpd[19780] metasploitable.localdomain (::ffff:192.168.16.202[::ffff:192.168.16.202]): FTP session closed.
+Apr 29 20:19:41 metasploitable proftpd[19792] metasploitable.localdomain (::ffff:192.168.16.202[::ffff:192.168.16.202]): no such user 'anonymous'
+Apr 29 20:19:41 metasploitable proftpd[19792] metasploitable.localdomain (::ffff:192.168.16.202[::ffff:192.168.16.202]): USER anonymous: no such user found from ::ffff:192.168.16.202 [::ffff:192.168.16.202] to ::ffff:192.168.16.218:2121
+Apr 29 20:19:41 metasploitable proftpd[19789] metasploitable.localdomain (::ffff:192.168.16.202[::ffff:192.168.16.202]): no such user 'anonymous'
+Apr 29 20:19:41 metasploitable proftpd[19789] metasploitable.localdomain (::ffff:192.168.16.202[::ffff:192.168.16.202]): USER anonymous: no such user found from ::ffff:192.168.16.202 [::ffff:192.168.16.202] to ::ffff:192.168.16.218:2121
+Apr 29 20:19:41 metasploitable proftpd[19793] metasploitable.localdomain (::ffff:192.168.16.202[::ffff:192.168.16.202]): FTP session closed.
+Apr 29 20:19:41 metasploitable proftpd[19777] metasploitable.localdomain (::ffff:192.168.16.202[::ffff:192.168.16.202]): FTP session closed.
+Apr 29 20:19:41 metasploitable proftpd[19789] metasploitable.localdomain (::ffff:192.168.16.202[::ffff:192.168.16.202]): FTP session closed.
+Apr 29 20:19:41 metasploitable proftpd[19792] metasploitable.localdomain (::ffff:192.168.16.202[::ffff:192.168.16.202]): FTP session closed.
+Apr 30 00:04:40 metasploitable proftpd[20650] metasploitable.localdomain: Fatal: unable to open incoming connection: Transport endpoint is not connected
+Apr 30 10:54:31 metasploitable proftpd[23057] metasploitable.localdomain (::ffff:192.168.16.208[::ffff:192.168.16.208]): FTP session opened.
+Apr 30 10:54:31 metasploitable proftpd[23057] metasploitable.localdomain (::ffff:192.168.16.208[::ffff:192.168.16.208]): FTP session closed.

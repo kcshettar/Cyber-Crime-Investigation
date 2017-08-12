@@ -1,0 +1,31 @@
+msf > hosts                                                                                                                    
+                                                                                                                               
+Hosts                                                                                                                          
+=====                                                                                                                          
+                                                                                                                               
+address         mac                name                       os_name  os_flavor  os_sp             purpose  info  comments    
+-------         ---                ----                       -------  ---------  -----             -------  ----  --------    
+192.168.16.200  00:50:56:be:e4:64  gateway.cs.uml.edu         Unknown                               device                     
+192.168.16.201  00:50:56:be:2f:f9  kali1.cs.uml.edu           Unknown                               device                     
+192.168.16.202  00:50:56:be:26:2b  kali2.cs.uml.edu           Unknown                               device                     
+192.168.16.203  00:50:56:be:b4:c5  kali3.cs.uml.edu           Unknown                               device                     
+192.168.16.204  00:50:56:be:66:7e  kali4.cs.uml.edu           Unknown                               device                     
+192.168.16.205  00:50:56:be:60:1d  kali5.cs.uml.edu           Unknown                               device                     
+192.168.16.206  00:50:56:be:97:65  kali6.cs.uml.edu           Unknown                               device                     
+192.168.16.207  00:50:56:be:41:38  kali7.cs.uml.edu           Unknown                               device                     
+192.168.16.208                     kali8.cs.uml.edu           Unknown                               device                     
+192.168.16.209  00:50:56:be:19:e7  kali9.cs.uml.edu           Unknown                               device                     
+192.168.16.210  00:50:56:be:ff:db  kali10.cs.uml.edu          Unknown                               device                     
+192.168.16.211  00:50:56:be:4f:cd  metasexploit1.cs.uml.edu   Unknown                               device                     
+192.168.16.212  00:50:56:be:4c:89  metasexploit2.cs.uml.edu   Unknown                               device                     
+192.168.16.214  00:50:56:ba:e2:ad  metasexploit4.cs.uml.edu   Linux                                 server                     
+192.168.16.215  00:50:56:be:27:8e  metasexploit5.cs.uml.edu   Unknown                               device                     
+192.168.16.217  00:50:56:ba:2d:99  metasploitable             Linux               2.6.24-16-server  server                     
+192.168.16.218  00:50:56:ba:9b:9e  metasexploit8.cs.uml.edu   Linux                                 server                     
+192.168.16.219  00:50:56:be:95:db  metasexploit9.cs.uml.edu   Unknown                               device                     
+192.168.16.220  00:50:56:ba:d3:80  metasexploit10.cs.uml.edu  Linux                                 server                     
+192.168.16.251  00:50:56:96:4b:0a                             Unknown                               device                     
+192.168.16.252  00:50:56:ae:42:35                             Unknown                               device                     
+192.168.16.254  00:00:5e:00:01:10                             Unknown                               device                     
+                                                                                                                               
+msf >                                                                                                                          
